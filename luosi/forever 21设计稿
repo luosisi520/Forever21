@@ -1,0 +1,2461 @@
+
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+<head>
+    <title>Forever21官网丨女装-男装-配饰-鞋包-女鞋-泳衣-Forever21</title>
+    <meta name="Description" content="FOREVER21是美国快时尚的代名词，致力为年轻人感受国际潮流，您可以在官方网上商城轻松选购女装、男装、女鞋、泳衣、白领女装、配饰、鞋包等，另有forever、21优惠券、forever 21折扣价格服装以及畅销单品等你来选购！" />
+    <meta charset="utf-8">
+	<meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="author" content="Forever21">
+	<link rel="stylesheet" href="/common/css/f21site.css?v=20180629_03">
+	<link rel="stylesheet" href="/common/css/pr_override.css">
+	<link rel="stylesheet" href="/common/css/pr_styles_review.css">
+	<script src="/common/js/jquery-1.11.2.min.js"></script>
+	<script src="/common/js/f21jquery.js"></script>	
+    <script src="/common/js/base64.js"></script>
+    <script src="/common/js/jquery-confirm.js"></script>
+    <script src="/common/js/wishlist/wishlist.js?v=20161101" type="text/javascript"></script>
+    <script src="/common/js/common/common.js?v=20160713" type="text/javascript"></script>
+	<!--[if lt IE 9]>
+        <script src="/Common/Js/html5shiv.min.js" type="text/javascript"></script>
+        <script src="/Common/Js/respond.min.js" type="text/javascript"></script>
+	<![endif]-->
+    
+    <!--[if IE 8]>
+        <link rel="stylesheet" href="/common/css/ie8_f21site.css?v=20161209_01">
+        <script src="/common/js/ie8_f21jquery.js?v=20161209_01" type="text/javascript"></script>
+    <!<![endif]-->
+
+    <link rel="canonical" href="http://www.forever21.cn" />
+    <link rel="alternate" media = "only screen and (maxwidth:640px)" href = "http://www.forever21.cn/mobile" >
+    
+    <link rel="alternate" hreflang="en-US" href="https://www.forever21.com/us/shop" />
+    <link rel="alternate" hreflang="fr-CA" href="https://www.forever21.com/ca/shop?lang=fr-ca" />
+    <link rel="alternate" hreflang="en-CA" href="https://www.forever21.com/ca/shop?lang=en-ca" />
+    <link rel="alternate" hreflang="en-GB" href="https://www.forever21.com/uk/shop" />
+    <link rel="alternate" hreflang="ko-KR" href="http://www.forever21.co.kr" />
+    <link rel="alternate" hreflang="ja-JP" href="http://www.forever21.co.jp" />
+    <link rel="alternate" hreflang="zh-CN" href="http://www.forever21.cn" />
+    
+    <link rel="alternate" hreflang="es-MX" href="http://www.forever21.com/mx/" />
+    <link rel="alternate" hreflang="en" href="https://www.forever21.com/eu/shop?lang=en" />
+    <link rel="alternate" hreflang="de-DE" href="https://www.forever21.com/eu/shop?lang=de-de" />
+    <link rel="alternate" hreflang="es-ES" href="https://www.forever21.com/eu/shop?lang=es-es" />
+    <link rel="alternate" hreflang="fr-FR" href="https://www.forever21.com/eu/shop?lang=fr-fr" />
+    <link rel="alternate" hreflang="it-IT" href="https://www.forever21.com/eu/shop?lang=it-it" />
+    <link rel="alternate" hreflang="nl-NL" href="https://www.forever21.com/eu/shop?lang=nl-nl" />
+    <link rel="alternate" hreflang="en-AU" href="https://www.forever21.com/gl/shop" />
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="google" content="notranslate">
+    <meta http-equiv="Content-Language" content="en">
+    <title>Shop Forever 21 for the latest trends and the best deals | Forever 21</title>
+    <meta name="google-site-verification" content="uj5kM9edchFbDWSLJu19mFqhBcxR3pOt3Z09QtwqHIk" />
+    <meta name="description" content="Forever 21 is the authority on fashion & the go-to retailer for the latest trends, must-have styles & the hottest deals. Shop dresses, tops, tees, leggings & more." />
+    <meta id="ctl00_Meta2" name="Keywords" content="clothes, clothing, apparel, casual tops, dressy tops, basics, skirts, dress, dresses, sale, fashion, cheap, tees, tank tops, graphics, shirts, pants, jeans, shorts, sweaters, outerwear, jackets, tops, bottoms, skirts, shoes, halter, tube top, denim, jewelery, accessories, rings, necklaces, underwear, mens, womens, woman, junior fashion, xxi, forlove, gadzooks, womens apparel, intimate, handbags, sunglasses, hats, scarves, hair goods, earrings"></meta>
+    <!--meta name="viewport" content="width=device-width, initial-scale=1"-->
+    
+    <!-- [FAVI] -->
+    <link href="http://www.forever21.cn/images/en/common/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/Common/Css/subModal.css" rel="stylesheet" type="text/css" />
+    
+    <!-- [JS] -->
+
+    <!-- [CONFIRM SCRIPTS] -->
+    <script type="text/javascript">
+        
+    </script>
+    <script type="text/javascript">        
+                
+    </script>
+    <script type="text/javascript">
+        
+    </script>
+    
+    
+    
+
+    <script type="text/javascript">
+        var AppPath = ''; // THIS IS BLANK
+    </script>
+    <script type="text/javascript" src="/common/js/common.js?v=20160714_0"></script>
+    <script src="/Common/Js/cookie_slide.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function fnShowVideoPopUp(video, src) {
+            if (src == "youtube") {
+                var video_content = '<div class="video-container"><iframe width="100%" height="500" src="https://www.youtube.com/embed/' + video + '?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+            }
+            else {
+                var video_content = '<div style="margin:-10px -5px;"><video width="100%" autoplay controls onended="loopVideo(this)"><source src="http://www.forever21.com/images/video/' + src + '/' + video + '.mp4" type="video/mp4"></video><div>'
+            }
+
+            $.confirm({
+                title: '',
+                content: video_content,
+                animation: 'top',
+                closeIcon: true,
+                confirmButton: false,
+                cancelButton: false,
+                columnClass: 'col-md-9 video_pop',
+                onOpen: function () {
+                    //$('.closeIcon').css({ 'display': 'none' });
+                    if (src == "youtube") {
+                        $('.jconfirm .jconfirm-box div.content').css({ 'padding': '2em' });
+                    }
+                    else {
+                        $('.jconfirm .jconfirm-box div.content').css({ 'padding': '2.5em' });
+                    }
+                    $('.jconfirm .jconfirm-box div.closeIcon').css({ 'top': '1%' }).css({ 'right': '1%' });
+                }
+            });
+        }  
+
+        function getCookie(cname) {
+            var name = cname + "=";
+
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+
+        function getCookieNew(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+        }
+
+        function checkCookieName(cname) {
+            var user = getCookieNew(cname);
+            return user;
+        }
+
+        function checkCookieValue(cname, pname) {
+            var user = getCookieNew(cname);
+            var name = pname + "=";
+            var ca = user.split('&');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            } 
+            return "";
+        }
+
+        function checkloginlink() {
+            var basketCount = checkCookieValue("UserTrace", "basketCount");
+            if (basketCount != '0' && basketCount != '') {
+                $("#ctl00_haveBasket").addClass('no_shoppingbag');
+                $("#ctl00_haveBasket").css('display', 'block');
+                $('#ctl00_haveBasket').html(basketCount);
+            }
+            else {
+                $("#ctl00_haveBasket").removeClass('no_shoppingbag');
+                $("#ctl00_haveBasket").css('display', 'none');
+            }
+
+            if (checkCookieName("LoggedIn") != "1") {
+                $('#loginlink').css('display', 'block');
+                $('#loginlink span.top_text').html('登录 / 注册');
+                $('#myaccountlink').css('display', 'none');
+                $('#divMyAccountList').css('display', 'none');
+            }
+            else {
+                var url = '/Ajax/Ajax_Login.aspx?method=GETUSERNAME';
+
+                $.ajax({
+                    type: "GET",
+                    url: url,
+                    success: function (result) {
+                        if (result == '') {
+                            $('#loginlink').css('display', 'block');
+                            $('#loginlink span.top_text').html('登录 / 注册');
+                            $('#myaccountlink').css('display', 'none');
+                            $('#divMyAccountList').css('display', 'none');
+                        }
+                        else {
+                            loggedUserName = result;
+
+                            $('#loginlink').css('display', 'block');
+                            $('#loginlink span.top_text').html('你好, ' + loggedUserName);
+                            $('#myaccountlink').css('display', 'none');
+                        }
+                    }
+                });
+            }
+        }
+
+        function checkLastCategoryPage() {
+            var referrer = document.referrer;
+            var href = window.location.href;
+            if (href.toLowerCase().indexOf("category.aspx") < 0 && href.toLowerCase().indexOf("landing.aspx") < 0 && href.toLowerCase().indexOf("lookbooks/") < 0 && href.toLowerCase().indexOf("sale/") < 0 && href.toLowerCase().indexOf("holidayshop/") < 0) {
+                if (referrer.toLowerCase().indexOf("category.aspx") > 0 || referrer.toLowerCase().indexOf("landing.aspx") > 0 || referrer.toLowerCase().indexOf("lookbooks/") > 0 || referrer.toLowerCase().indexOf("sale/") > 0 || referrer.toLowerCase().indexOf("holidayshop/") > 0) {
+                    //Last category page save in Cookie.
+                    setCookie("lastcategory", referrer, 365);
+                }
+            }
+        }
+
+        function continueShoppingUrl() {
+            var lastCategoryUrl = getCookieNew("lastcategory");
+            if (lastCategoryUrl == "") {
+                window.location = "/Product/Category.aspx?br=f21&category=whatsnew_all";
+            }
+            else {
+                window.location = lastCategoryUrl;
+            }
+        }
+
+        function fnToggleMegaSubMenu(subDivId) {
+            if ($('#' + subDivId).css('display') == 'block')
+                $('#' + subDivId).css('display', 'none');
+            else
+                $('#' + subDivId).css('display', 'block');
+        }
+
+        Number.prototype.formatMoney = function (places, symbol, thousand, decimal) {
+            places = !isNaN(places = Math.abs(places)) ? places : 2;
+            symbol = symbol !== undefined ? symbol : "$";
+            thousand = thousand || ",";
+            decimal = decimal || ".";
+            var number = this,
+	    negative = number < 0 ? "-" : "",
+	    i = parseInt(number = Math.abs(+number || 0).toFixed(places), 10) + "",
+	    j = (j = i.length) > 3 ? j % 3 : 0;
+            return symbol + negative + (j ? i.substr(0, j) + thousand : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thousand) + (places ? decimal + Math.abs(number - i).toFixed(places).slice(2) : "");
+        };
+
+        var AppPath = ''; // THIS IS BLANK
+        var ImageRootPath = 'http://www.forever21.cn/images/';
+        var SiteImagePath = 'http://www.forever21.cn/images/en';
+
+        $(function () {
+
+            $('ihKeyword').val("enter keyword or item#");
+
+
+            $("#ihKeyword").keyup(function (event) {
+                if (event.keyCode == 13) {
+                    search_go();
+                }
+            });
+
+        });
+
+        var haveBasketID = "ctl00_haveBasket";
+        var haveTotalID = "ctl00_haveTotal";
+
+    </script>
+    <!-- BLINK TEXT -->
+    <script type="text/javascript">
+
+        function Blink() {
+            obj = document.getElementById("blink");
+            if (obj.style.visibility == "hidden") obj.style.visibility = "visible";
+            else obj.style.visibility = "hidden";
+            window.setTimeout("Blink();", 500);
+        }
+    </script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            if ($("#popUp").length) {
+
+                $('#popUpBody').click(function (e) {
+                    e.stopPropagation();
+                    return false;
+                });
+            }
+
+            if ($("#popUp_marketing").length) {
+                $('#popUp_marketing').live('click', function (e) {
+                    showPopup();
+                });
+
+                $('#popUpBody_marketing').click(function (e) {
+                    e.stopPropagation();
+                    return false;
+                });
+            }
+
+            if (window.location.pathname == '/' || window.location.pathname.toLowerCase().indexOf('/product/main.aspx') == 0 || window.location.pathname.toLowerCase().indexOf('/default.aspx') == 0) {
+                $('div#main').addClass('homepage');
+            }
+
+            if (window.location.pathname.toLowerCase().indexOf('/product/category.aspx') == 0) {
+                $('div#main').addClass('category_wrapper');
+            }
+
+            if ('False' == 'True') {
+                $('div#main').addClass('landing');
+            }
+
+            var getSelectedElement = $('nav.desktop_mega a[href="' + location.href + '"]');
+            if (getSelectedElement.length == 0) {
+                getSelectedElement = $('nav.desktop_mega a[href="' + document.referrer + '"]');
+            }
+
+            if (window.location.pathname != '/' && window.location.pathname.toLowerCase().indexOf('/product/main.aspx') < 0 && window.location.pathname.toLowerCase().indexOf('/default.aspx') < 0) {
+                getSelectedElement.parents().each(function () {
+                    if ($(this).is('nav.desktop_mega li'))
+                        $(this).addClass('selected');
+                });
+            }
+        });
+
+        $('html').click(function () {
+            var rightValue = '';
+
+            if ($("#popUp").length) {
+                rightValue = $("#popUp").css("right");
+            }
+
+            if ($("#popUp_marketing").length) {
+                rightValue = $("#popUp_marketing").css("right");
+            }
+
+            if (rightValue == '152px') {
+                closePopup_SliderBanner();
+
+                if ($("#popUp").length) {
+                    if (getSecondCookie("slider_w") == "S1") {
+                        $("#popUp").css("display", "none");
+                    }
+                }
+            }
+        });
+
+        function fnShowTerms() {
+            $.confirm({
+                title: '',
+                content: 'url:/htmls/popup/en-us/m_terms.html',
+                animation: 'top',
+                closeIcon: true,
+                confirmButton: false,
+                cancelButton: false,
+                columnClass: 'col-md-8'
+            });
+        }
+
+        function fnShowPrivacyPolicy() {
+            $.confirm({
+                title: '',
+                content: 'url:/htmls/popup/en-us/m_privacy.html',
+                animation: 'top',
+                closeIcon: true,
+                confirmButton: false,
+                cancelButton: false,
+                columnClass: 'col-md-8'
+            });
+        }
+    </script>
+    <!-- [CERTONA COOKIE] -->
+    <script type="text/javascript">
+        // Base64
+        var Base64 = { _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=", encode: function (e) { var t = ""; var n, r, i, s, o, u, a; var f = 0; e = Base64._utf8_encode(e); while (f < e.length) { n = e.charCodeAt(f++); r = e.charCodeAt(f++); i = e.charCodeAt(f++); s = n >> 2; o = (n & 3) << 4 | r >> 4; u = (r & 15) << 2 | i >> 6; a = i & 63; if (isNaN(r)) { u = a = 64 } else if (isNaN(i)) { a = 64 } t = t + this._keyStr.charAt(s) + this._keyStr.charAt(o) + this._keyStr.charAt(u) + this._keyStr.charAt(a) } return t }, decode: function (e) { var t = ""; var n, r, i; var s, o, u, a; var f = 0; e = e.replace(/[^A-Za-z0-9\+\/\=]/g, ""); while (f < e.length) { s = this._keyStr.indexOf(e.charAt(f++)); o = this._keyStr.indexOf(e.charAt(f++)); u = this._keyStr.indexOf(e.charAt(f++)); a = this._keyStr.indexOf(e.charAt(f++)); n = s << 2 | o >> 4; r = (o & 15) << 4 | u >> 2; i = (u & 3) << 6 | a; t = t + String.fromCharCode(n); if (u != 64) { t = t + String.fromCharCode(r) } if (a != 64) { t = t + String.fromCharCode(i) } } t = Base64._utf8_decode(t); return t }, _utf8_encode: function (e) { e = e.replace(/\r\n/g, "\n"); var t = ""; for (var n = 0; n < e.length; n++) { var r = e.charCodeAt(n); if (r < 128) { t += String.fromCharCode(r) } else if (r > 127 && r < 2048) { t += String.fromCharCode(r >> 6 | 192); t += String.fromCharCode(r & 63 | 128) } else { t += String.fromCharCode(r >> 12 | 224); t += String.fromCharCode(r >> 6 & 63 | 128); t += String.fromCharCode(r & 63 | 128) } } return t }, _utf8_decode: function (e) { var t = ""; var n = 0; var r = c1 = c2 = 0; while (n < e.length) { r = e.charCodeAt(n); if (r < 128) { t += String.fromCharCode(r); n++ } else if (r > 191 && r < 224) { c2 = e.charCodeAt(n + 1); t += String.fromCharCode((r & 31) << 6 | c2 & 63); n += 2 } else { c2 = e.charCodeAt(n + 1); c3 = e.charCodeAt(n + 2); t += String.fromCharCode((r & 15) << 12 | (c2 & 63) << 6 | c3 & 63); n += 3 } } return t } }
+        // Get Value
+        var certonaCustomerID64 = getSecondCookie("CustomerIDUS");
+        // Decode
+        var certonaCustomerID = Base64.decode(certonaCustomerID64);                 
+    </script>
+
+    
+<!-- ScriptArea_Head Start -->
+    <script type='text/javascript'>var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-27836011-1']);_gaq.push(['_trackPageview']);(function () {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+<!-- ScriptArea_Head End -->
+
+<!--Baidu 데이터 코드-->
+<script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function () { 
+        var hm = document.createElement("script"); 
+        hm.src = "//hm.baidu.com/hm.js?491853c853b0ea11e46746451ee06293"; 
+        var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); 
+    })();
+</script>
+
+    
+<link rel="apple-touch-icon-precomposed" href="http://www.forever21.cn/images/en/common/apple-touch-icon-144x144-precomposed.png"/>
+<meta name="apple-mobile-web-app-title" content="Forever 21">
+<meta name="msvalidate.01" content="831A4E7498BE29A2C7C9C130286F0D05" />
+<script src="/Common/Js/owl.carousel.js" type="text/javascript"></script>
+<script src="/Common/Js/imageMapResizer.min.js" type="text/javascript"></script>
+<script src="/Common/Js/AjaxProduct.js" type="text/javascript"></script>
+<script src="/Common/Js/wishlist.js" type="text/javascript"></script>
+<script src="/Common/Js/moment.js" type="text/javascript"></script>
+<script src="/Common/Js/jquery.lazyload.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(function () {
+        // MAIN
+        $("#carousel_main").owlCarousel({
+            navigation: true,
+            pagination: true,
+            items: 6,
+            autoPlay: 3000,
+            slideSpeed: 1500,
+            responsive: true,
+            singleItem: true
+        });
+        // NEW ARRIVALS
+        $("#carousel_new").owlCarousel({
+            navigation: true,
+            pagination: true,
+            items: 6,
+            autoPlay: 3000,
+            slideSpeed: 1500,
+            responsive: true,
+            singleItem: true
+        });
+    }); 
+</script>
+<script type="text/javascript">
+        function emailPopupVisible() {
+        var ncPop = GetCookie('NCPOP');
+
+        //탭 팝업
+        if (ncPop == null) {
+            ncPop = 1
+            setCookie('NCPOP', ncPop, 7);
+            $('.signup_enjoy').show();
+            $('#email_result').hide();
+
+        } else if ('true' == 'True' || 'True' == 'True') {
+            $('.signup_enjoy').show();
+            $('#email_result').hide();   
+        }
+        else {
+            $('.signup_enjoy').hide();
+        }
+    }
+
+    $(document).ready(function () {
+        emailPopupVisible();
+    });
+
+    $(function () {
+        $("#m1_banner").owlCarousel({
+		    navigation : true,
+		    pagination: false,
+		    items: 1,
+		    autoPlay: 7000,
+		    slideSpeed: 500,
+		    responsive: true,
+		    singleItem:true
+		});
+    }); 
+
+    window.onload = function() {
+        $('map').imageMapResize();
+
+        //20160701 dy.kim
+//        $("img.lazy").lazyload({
+//            threshold: 600,
+//            effect: "fadeIn",
+//            throttle: 30,
+//            placeholder: 'http://www.forever21.cn/images/lazy_loader.png'
+//        });
+    };  
+
+</script>
+
+<script type="text/javascript">
+    var countdownTimer;
+
+    function fnHideTooltip() {
+        $('div.tooltip').css('display', 'none');
+    }
+    
+    function fnChangeProductImageForMouseEvent(image, imageFilePath) {
+        var imageTest = new Image();
+        imageTest.onload = function () {
+            setTimeout(function () { image.src = imageFilePath }, 100);
+        };
+        imageTest.onerror = function () {
+            //alert('error loading');
+        };
+        imageTest.src = imageFilePath;
+    }
+
+
+    function imgError(image) {
+        image.onerror = "";
+        image.src = "http://www.forever21.cn/images/no_image.jpg";
+        //image.src = originalImage;
+        return true;
+    }
+
+    function fnShowProductPopup(brand, category, productid) {
+        $.confirm({
+            title: '',
+            content: 'url:/Product/Product_pop.aspx?br=' + brand + '&category=' + category + '&productid=' + productid,
+            animation: 'top',
+            closeIcon: true,
+            confirmButton: false,
+            cancelButton: false,
+            columnClass: 'col-md-9'
+            , contentLoaded: function () {
+            }
+        });
+    }
+
+    ////////////////////// for quick view /////////////////////////////
+
+    var AppPath = '';
+    var ImageRootPath = 'http://www.forever21.cn/images/';
+    var SiteImagePath = 'http://www.forever21.cn/images/en';
+
+    var MSG_OOS = "我们很抱歉,此产品不再可用.";
+    var MSG_ERR = "抱歉 ,此商品暂时无法购买";
+    var MSG_LIMITOVER = "Your bag has reached the maximum capacity (40 items) for this transaction.";
+
+    function fnHideImageButton(id) {
+        document.getElementById(id).style.display = 'none';
+    }
+
+    function fnChangeImage(imageClass, newImageURL) {
+        $('.ItemImage.Main').fadeOut('fast', function () {
+            $('.ItemImage.Main').attr('src', newImageURL);
+            $('.ItemImage.Main').fadeIn('fast');
+        });
+    }
+
+    function fnChangeColor(category, id, colorId, colorName) {
+        var url = '/Ajax/Ajax_Product.aspx?method=CHANGEPRODUCTCOLOR&category=' + category + '&productid=' + id + '&colorid=' + colorId;
+
+        $.ajax({
+            type: "GET",
+            url: url,
+            success: function (result) {
+                $('.ItemImage.Main').fadeOut('fast', function () {
+                    $('.ItemImage.Main').attr('src', result.ProductDefaultImageURL);
+                    $('.ItemImage.Main').fadeIn('fast');
+                });
+
+                $('#pdp_thumbnail').fadeOut('fast', function () {
+                    $('#pdp_thumbnail').html(result.ProductButtonImageHTML);
+                    $('#pdp_thumbnail').fadeIn('fast');
+                });
+
+                $('#ulProductSize').fadeOut('fast', function () {
+                    $('#ulProductSize').html(result.ProductSizeHTML);
+                    $('#ulProductSize').fadeIn('fast');
+                });
+
+                $('#spanSelectedColorName').fadeOut('fast', function () {
+                    $('#spanSelectedColorName').html(colorName);
+                    $('#spanSelectedColorName').fadeIn('fast');
+                });
+
+                $('#ulProductColor li').removeClass('selected');
+                $('#colorid_' + colorId).addClass('selected');
+                $('#ulProductSize input:checkbox:checked').prop('checked', false);
+
+                // set selected color value to hidden control
+                $('.hdSelectedColor').val(colorId);
+                $('.hdSelectedColorName').val(colorName);
+                $('.hdSelectedSize').val(result.SelectedSizeID);
+
+                fnChangeSizePDP();
+            }
+        });
+    }
+
+    function fnChangeSize(id) {
+        if ($('#' + id).closest('li').find('div.tooltip').length > 0) {
+            // the size is out of stock
+            $('#' + id).closest('li').find('div.tooltip').css('display', 'block'); // show oos message tooltip
+            $('#hdSelectedSizeName_OOS').val($('#' + id).closest('li').find('label').html()); // set size name to oos control
+        }
+        else {
+            fnHideTooltip();
+            $('#ulProductSize input:checkbox:checked').prop('checked', false);
+            $('#' + id).prop('checked', true);
+            $('.hdSelectedSize').val($('#' + id).val());
+
+            fnChangeSizePDP();
+        }
+    }
+
+    function fnChangeQty(qty) {
+        $('.hdSelectedQty').val(qty);
+    }
+
+    function fnCart() {
+        var brandVal = $('.hdBrand').val();
+        var siteNameVal = $('.hdCatalogName').val();
+        var categoryVal = $('.hdCategoryName').val();
+        var productIdVal = $('.hdProductId').val();
+        var itemCodeVal = $('.hdItemCode').val();
+        var displayNameVal = $('.hdDisplayName').val();
+        var itemPriceVal = $('.hdItemPrice').val();
+
+        var selectedColorVal = $('.hdSelectedColor').val();
+        var selectedColorNameVal = $('.hdSelectedColorName').val();
+        var selectedSizeVal = $('.hdSelectedSize').val();
+        var selectedQtyVal = $('.hdSelectedQty').val();
+
+        var imgURL = $('.ItemImage.Main').attr('src').replace('/default_750/', '/thumbnail/');
+
+        if (brandVal == "tbt" || brandVal == "21men")
+            brandVal = "f21";
+
+        if (selectedColorVal == "") {
+            $('.tooltip_color').css('display', 'block');
+            return false;
+        }
+        if (selectedSizeVal == "") {
+            $('.tooltip_size').css('display', 'block');
+            return false;
+        }
+
+        $('#addtobag').html('adding...');
+
+        OpacityInit('showBasket');
+
+        var VariantID = selectedColorVal + selectedSizeVal;
+
+        var url = AppPath + "/Ajax/AjaxBasket.aspx?Action=AddProduct&Category=" + categoryVal + "&ProductID=" + productIdVal + "&Catalog=" + siteNameVal + "&Quantity=" + selectedQtyVal + "&VariantID=" + VariantID + "&BR=" + brandVal + "&" + new Date().getTime();
+        var br_sku = itemCodeVal + VariantID;
+
+        try {
+            BrTrk.getTracker().logEvent('Cart', 'click-add', { 'prod_id': productIdVal, 'sku': itemCodeVal + VariantID, 'prod_name': displayNameVal }, { 'price': itemPriceVal });
+        }
+        catch (err)
+        { }
+
+        $.ajax({
+            type: "GET",
+            url: url,
+            success: function (result) {
+                fn_AddToBasket(result, imgURL, 'showBasket', brandVal, selectedColorVal);
+
+                $('#addtobag').html('added!');
+
+                // certona
+                //var resx = new Object();
+                resx.appid = "FOREVER2101";
+                resx.top1 = 100000;
+                resx.top2 = 100000;
+
+                resx.event = "shopping+cart";
+                resx.itemid = productIdVal;
+                resx.customerid = certonaCustomerID;
+
+                certonaResx.run();
+
+                setTimeout(function () { $('#addtobag').html('add to bag'); }, 2000);
+            }
+        });
+
+        return false;
+    }
+
+    function fnAddWishList() {
+        var returnValue = true;
+
+        var Qty = '';
+        var Color = '';
+        var Size = '';
+
+        Qty = $('.hdSelectedQty').val();
+        Color = $('.hdSelectedColor').val();
+        Size = $('.hdSelectedSize').val();
+
+        var arrColor, VariantID;
+
+        if (Color != null)
+            arrColor = Color.split("|");
+
+        if (Color == "") {
+            alert("请选颜色");
+            returnValue = false;
+        }
+
+        if (Size == "") {
+            $('.tooltip_size').css('display', 'block');
+            returnValue = false;
+        }
+
+        return returnValue;
+    }
+
+    function fnShowSizechart(brand, category) {
+        var sizeChartPageURL = '';
+
+        if (brand == 'love21') {
+            sizeChartPageURL = '/htmls/sizechart/m_sizecontemp.html';
+        }
+        else if (brand == '21men') {
+            sizeChartPageURL = '/htmls/sizechart/m_sizemen.html';
+        }
+        else if (brand == 'plus') {
+            sizeChartPageURL = '/htmls/sizechart/m_sizeplus.html';
+        }
+        else if (brand == 'girls' || brand == 'boys' || brand == 'kids') {
+            sizeChartPageURL = '/htmls/sizechart/m_sizekids.html';
+        }
+        else if (category.toLowerCase().indexOf('acc') >= 0) {
+            sizeChartPageURL = '/htmls/sizechart/m_sizeacc.html';
+        }
+        else {
+            sizeChartPageURL = '/htmls/sizechart/m_sizewomen.html';
+        }
+
+        $.confirm({
+            title: '',
+            content: 'url:' + sizeChartPageURL,
+            animation: 'top',
+            closeIcon: true,
+            confirmButton: false,
+            cancelButton: false,
+            columnClass: 'col-md-6'
+        });
+    }
+
+    function fnShowWaitlist(producttype, productid, sizeid) {
+        $('#hdProductType_OOS').val(producttype);
+        $('#hdProductID_OOS').val(productid);
+        $('#hdSelectedSizeID_OOS').val(sizeid);
+
+        $.confirm({
+            title: '',
+            content: 'url:/Product/Product_Waitlist_pop.aspx',
+            animation: 'top',
+            closeIcon: true,
+            confirmButton: false,
+            cancelButton: false,
+            columnClass: 'col-md-4'
+        });
+    }
+
+    function RemainTimer() {
+        var hours = difference.get('hours');
+        if (hours < 10) {
+            hours = "0" + hours;
+        }
+        var minutes = difference.get('minutes');
+        if (minutes < 10) {
+            minutes = "0" + minutes;
+        }
+
+        var seconds = difference.get('seconds');
+        if (seconds < 10) {
+            seconds = "0" + seconds;
+        }
+
+        $('.span_remain_time').html("ends in " + hours + ":" + minutes + ":" + seconds);
+
+        if (difference < 1) {
+            clearInterval(countdownTimer);
+            $('.span_remain_time').html('Completed');
+        } else {
+            difference.add(-1000);
+        }
+    }
+
+    $(window).load(function () {
+        var now = moment();
+        tomorrow = moment().add(1, 'day').startOf('day');
+        difference = moment.duration(tomorrow.diff(now));
+
+
+        countdownTimer = setInterval('RemainTimer()', 1000);
+    });
+</script>
+<!-- Certona Specific -->
+<link rel="stylesheet" type="text/css" href="/Common/Css/slick.css"/>
+<script type="text/javascript" src="/Common/Js/slick.min.js"></script>
+    <script type="text/javascript">
+        //slider 20160620 추가
+        $(document).ready(function () {
+            var arrParent = [{ obj: $("#owl-main-one"), idx: 0 }
+                            ,{ obj: $("#owl-main-two"), idx: 0 }
+                            ,{ obj: $("#owl-main-three"), idx: 0}];
+
+            $("#owl-top-banner").owlCarousel({
+                navigation: true, // Show next and prev buttons
+                slideSpeed: 300,
+                paginationSpeed: 400,
+                autoPlay: false,
+                navigationText: ["<", ">"],
+                rewindNav: false,
+                singleItem: true
+            });
+
+            $("#owl-main-one").owlCarousel({
+                navigation: true, // Show next and prev buttons
+                slideSpeed: 300,
+                pagination: false,
+                paginationSpeed: 400,
+                autoPlay: false,
+                navigationText: ["<", ">"],
+                rewindNav: false,
+                singleItem: true
+            });
+
+            $("#owl-main-two").owlCarousel({
+                navigation: true, // Show next and prev buttons
+                slideSpeed: 300,
+                pagination: false,
+                paginationSpeed: 400,
+                autoPlay: false,
+                navigationText: ["<", ">"],
+                rewindNav: false,
+                singleItem: true
+            });
+
+            $("#owl-main-three").owlCarousel({
+                navigation: true, // Show next and prev buttons
+                slideSpeed: 300,
+                pagination: false,
+                paginationSpeed: 400,
+                autoPlay: false,
+                navigationText: ["<", ">"],
+                rewindNav: false,
+                singleItem: true
+            });
+
+
+            $('.owl-prev').unbind('click');
+            $('.owl-next').unbind('click');
+
+            $('.owl-prev').click(function () {
+                var curr = $(this);
+                $.each(arrParent, function (i, item) {
+                    if (curr.parents().is(item.obj)) {
+                        //parent = $(item[i].name);
+                        item.idx = item.idx - 1;
+                        if (item.idx < 0)
+                            item.idx = $(item.obj).data('owlCarousel').itemsAmount;
+                        item.obj.data('owlCarousel').goTo(item.idx);
+                        return;
+                    }
+                });
+            });
+
+            $('.owl-next').click(function () {
+                var curr = $(this);
+                $.each(arrParent, function (i, item) {
+                    if (curr.parents().is(item.obj)) {
+                        //parent = $(item[i].name);
+                        item.idx = item.idx + 1;
+                        if (item.idx >= $(item.obj).data('owlCarousel').itemsAmount)
+                            item.idx = 0;
+                        item.obj.data('owlCarousel').goTo(item.idx);
+                        return;
+                    }
+                });
+            });
+
+        });
+    </script>
+
+</head>
+<body>
+    <style type="text/css">
+	    img[usemap] {
+		    border: none;
+		    height: auto;
+		    max-width: 100%;
+		    width: auto;
+	    }
+    </style>
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <script type="text/javascript">
+        $(function () {
+            $("#ihKeyword").blur(function () {
+
+                if ($("#ihKeyword").val() == "") {
+                    fnHideSearchBox();
+                }
+            })
+        });
+
+        function fnGetBasketSubTotal() {
+            var url = "/Ajax/AjaxBasketUpdate.aspx?action=status";
+            $.ajax({
+                type: "POST",
+                url: url,
+                contentType: "application/json; charset=euc-kr",
+                dataType: "json",
+                success: function (response) {
+                    $("#" + haveTotalID).html(response[0].SubTotal);
+                    $("#" + haveBasketID).html(response[1].Qty);
+                },
+                error: function (msg) {
+
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            
+                $("#newGlobal").show();
+				$("#GlobalNavContainer").hide();
+
+                $(".pre-header").addClass('pre-header-main');
+                $("#headerCtrl .container").addClass('container-main');
+            
+
+            if($('.product_grid.deals').length > 0)
+            {
+                var url = "/Ajax/Ajax_Product.aspx?method=GETLIGHTNINGDEALS";
+
+                $.ajax({
+                    type: "GET",
+                    contentType: "application/json; charset=euc-kr",
+                    url: url,
+                    success: function (result) {
+                        $('.product_grid.deals').html(result.DealHTML);
+                    }
+                });
+            }
+        });
+    </script>
+    <!-- [WELCOME SLIDER] -->
+    
+
+    <!-- [UTILITY NAV] -->
+    <div id="divGlobalContainer">
+        
+       <div class="subGlobal" id="newGlobal" style="display:block;"><a class="gtm_promo" data-promo-name="GLOBAL BAR" data-promo-position="GLOBAL BAR" href="/product/Category.aspx?br=f21&category=Promo_Autumn&entrance=GlobalBar"><p><span style="font-size:10pt;font-family:Verdana, Geneva, sans-serif;color:#fff200;"><strong>双12限时3折购❤专区返季清仓5折起！</strong></span>&nbsp;<br /><span style="font-size:9pt;color:#ffffff;">*全场满200元免邮（港澳台除外）</span></p></a> </div>
+
+       
+       <div class="preheader left">
+        <span class="icon_flag_china"></span>
+            <span>中国 | CNY (元)</span> 
+            <div class="top_country">
+                <ul>
+                    <li><a href="https://www.forever21.com/us/shop"><span class="icon_flag_usa"></span>united states</a></li>
+                    <li><a href="https://www.forever21.com/ca/shop?changecountry=CA"><span class="icon_flag_canada"></span>canada</a></li>
+                    <li><a href="http://www.forever21.com/mx/product/main.aspx?br=f21"><span class="icon_flag_mexico"></span>mexico</a></li>
+                    <li><a href="https://www.forever21.com/eu/shop?lang=en&changecountry=eu"><span class="icon_flag_eu"></span>europe</a></li>
+                    <li><a href="https://www.forever21.com/uk/shop?changecountry=uk"><span class="icon_flag_uk"></span>united kingdom</a></li>
+                    <li><a href="http://www.forever21.co.kr"><span class="icon_flag_korea"></span>korea</a></li>
+                    <li><a href="http://www.forever21.co.jp"><span class="icon_flag_japan"></span>japan</a></li>
+                    <li><a href="https://www.forever21.com/gl/shop"><span class="icon_flag_GlobalStore"></span>Australia</a></li>
+                    <li><a href="https://www.forever21.com/gl/shop"><span class="icon_flag_GlobalStore"></span>New Zealand</a></li>
+                    <li><a href="https://www.forever21.com/gl/shop"><span class="icon_flag_GlobalStore"></span>Asia Pacific</a></li>
+                    <li><a href="http://www.forever21.com/in/product/main.aspx?br=f21"><span class="icon_flag_india"></span>india</a></li>
+                </ul>
+            </div>
+         </div>
+        <div class="preheader right">
+            <a id="loginlink" href="https://www.forever21.cn/Login/Login.aspx?br=f21" style="display:none;">
+                <span class="top_text"></span>
+                <span class="icon_t_myaccount"></span>
+            </a> 
+            <div id="divMyAccountList" class="top_myaccountlist">
+				<ul>
+					<li><a href="/Account/AccountInfo.aspx">个人信息</a></li>
+                    <li><a href="/Order/PastOrders.aspx?br=f21">订单查询</a></li>
+					<li><a href="/Account/AddressBook.aspx">收货地址</a></li>
+					<li><a href="/Login/Logout.aspx">退出登陆</a></li>
+				</ul>
+			</div>
+        </div>
+    </div>
+    <!-- [HEADER START] -->
+    <div id="overlay"></div>
+	<a href="javascript:scroll(0, 0);" class="scrollToTop"><img src="http://www.forever21.cn/images/en/common/backtotop.png?1" /></a>
+    <header>
+	    <div class="header_nav">
+		    <div class="column_wrapper c_container">
+			    <div class="column span_3_of_16 float_left header_left">
+				     <div id="f21_logo"><a href="/Default.aspx" class="f21logo"></a></div>
+			    </div>
+                
+
+<div id="divMegamenu" class="column span_10_of_16 center_text mega_menu">
+<a href="#" class="close_popup menu"></a>
+	<nav class="desktop_mega">
+		<ul>
+            <li id="g_new">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21">新品</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubNew');">新品</a></span>
+                <div id="divSubNew" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '女装']); ">女装</a></span>
+		<div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫/ 衬衫']); ">蕾丝雪纺衫/ 衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_jeanshop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '牛仔裤']); ">牛仔裤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_app_sports" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '瑜伽 & 运动服']); ">瑜伽 & 运动服</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_swimwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '泳衣']); ">泳衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_intim" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&家居服']); ">内衣&家居服</a></span></li>
+            </ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_love21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '白领女装']); ">白领女装</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '配饰']); ">配饰</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_jewelry" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '首饰']); ">首饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_bag" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋']); ">包袋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_eyewear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '时尚眼镜']); ">时尚眼镜</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_hat_hair_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子&发饰']); ">帽子&发饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_legwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '袜子']); ">袜子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_belt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '腰带']); ">腰带</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_scarfgloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/手套']); ">围巾/手套</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_acc_gift_item" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '美容工具&礼品']); ">美容工具&礼品</a></span></li>
+            </ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_f21_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">女鞋</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男装']); ">男装</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '基本款 T恤']); ">基本款 T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_graphic_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '图案T恤']); ">图案T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_shirts" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男士配饰']); ">男士配饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_all_21men_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">男鞋</a></span></li>
+			</ul>
+		</div>
+    </li>
+   
+</ul>
+				</div> 
+            </li>
+            <li id="g_best">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_all">畅销单品</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubBest');">畅销单品</a></span>
+                <div id="divSubBest" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_all_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '女装']); ">女装</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_all_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋与配饰']); ">包袋与配饰</a></span></li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_all_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '女鞋']); ">女鞋</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_all_men" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男装']); ">男装</a></span></li>
+    
+</ul>
+				</div> 
+            </li>
+            <li id="g_women">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app">女装</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubWomen');">女装</a></span>
+                <div id="divSubWomen" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '销售冠军']); ">畅销商品</a></span>
+	</li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '新品']); ">新品</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫/ 衬衫']); ">蕾丝雪纺衫/ 衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_jeanshop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '牛仔裤']); ">牛仔裤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_app_sports" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '瑜伽 & 运动服']); ">瑜伽 & 运动服</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_swimwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '泳衣']); ">泳衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_intim" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&家居服']); ">内衣&家居服</a></span></li>
+            </ul>
+		</div>
+    </li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>   
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫/ 衬衫']); ">蕾丝雪纺衫/ 衬衫</a></span>   
+        <div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_woventop_shirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span></li>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_woventop_blouse" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫']); ">蕾丝雪纺衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_woventop_sleeveless" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '无袖上衣']); ">无袖上衣</a></span></li>
+			</ul>
+		</div>
+    </li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sweater_top" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '套头衫']); ">套头衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sweater_cardigan" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '毛开衫']); ">毛开衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sweater_vest" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '马甲背心']); ">马甲背心</a></span></li>
+			</ul>
+		</div>
+    </li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_outer_jacket" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '夹克/西装']); ">夹克/西装</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_outer_jumper" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织套衫']); ">针织套衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_outer_coat" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '风衣外套']); ">风衣外套</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_outer_vest" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '马甲背心']); ">马甲背心</a></span></li>
+			</ul>
+		</div>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_jeanshop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '牛仔裤']); ">牛仔裤</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_skirt_mini" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '短裙']); ">短裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_skirt_knee_long" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '及膝裙 / 长裙']); ">及膝裙 / 长裙</a></span></li>
+			</ul>
+		</div>
+    </li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '瑜伽 & 运动服']); ">瑜伽 & 运动服</a></span>
+        <div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports_bras" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '运动文胸']); ">运动文胸</a></span></li>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports_top" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '上衣']); ">上衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports_bottom" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports_surf" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '冲浪/沙滩装备']); ">冲浪/沙滩装备</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_app_sports_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&配饰']); ">内衣&配饰</a></span></li>
+            </ul>
+		</div>
+    </li>
+	
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_intim" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&家居服']); ">内衣&家居服</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_intim_bra" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '文胸 / 腰封腰夹']); ">文胸 / 腰封腰夹</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_intim_panties" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内裤']); ">内裤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_intim_sleep" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '睡衣 / 家居服']); ">睡衣 / 家居服</a></span></li>
+            </ul>
+		</div>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'Sale']); "><em>Sale</em></a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_newlyadded_women" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '最新增加']); ">最新增加</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫/ 衬衫']); ">蕾丝雪纺衫/ 衬衫</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_jeanshop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '牛仔裤']); ">牛仔裤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_app_sports" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '瑜伽 & 运动服']); ">瑜伽 & 运动服</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_swimwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '泳衣']); ">泳衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_intim" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&家居服']); ">内衣&家居服</a></span></li>
+            </ul>
+		</div>
+    </li>
+</ul>
+				</div>
+            </li>
+             <li id="g_contemporary">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app">白领女装</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubCon');">白领女装</a></span>
+                <div id="divSubCon" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_love21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '新品']); ">新品</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝衫雪纺衫/衬衫']); ">蕾丝衫雪纺衫 / 衬衫</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫/毛衣']); ">针织衫 / 毛衣</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=love21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+</ul>
+				</div>
+            </li>
+			<li id="g_men">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app">男装</a></span>
+				<span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubMen');">男装</a></span>
+                <div id="divSubMen" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_men" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '销售冠军']); ">畅销商品</a></span>
+	</li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '新品']); ">新品</a></span>
+        <div class="sub_sub">
+            <ul>      
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '基本款 T恤']); ">基本款 T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_graphic_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '图案T恤']); ">图案T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_shirts" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男士配饰']); ">男士配饰</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_21men_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">鞋</a></span></li>
+            </ul>  
+        </div>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '基本款 T恤']); ">基本款 T恤</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_graphic_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '图案T恤']); ">图案T恤</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_shirts" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男士配饰']); ">男士配饰</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=21men_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">鞋</a></span>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'sale']); "><em>sale</em></a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_newlyadded_men" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '最新增加']); ">最新增加</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '基本款 T恤']); ">基本款 T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_graphic_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '图案T恤']); ">图案T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_shirts" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男士配饰']); ">男士配饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_21men_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">鞋</a></span></li>
+			</ul>
+		</div>
+	</li>
+	</ul> 
+				</div>
+			</li>
+            <li id="g_accessories">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc">包袋&配饰</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubAcc');">包袋&配饰</a></span>
+                <div id="divSubAcc" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '销售冠军']); ">畅销商品</a></span>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '新品']); ">新品</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_jewelry" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '首饰']); ">首饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_bag" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋']); ">包袋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_eyewear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '时尚眼镜']); ">时尚眼镜</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_hat_hair_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子&发饰']); ">帽子&发饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_legwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '袜子']); ">袜子</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_belt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '腰带']); ">腰带</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_scarfgloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/手套']); ">围巾/手套</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_acc_gift_item" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '美容工具&礼品']); ">美容工具&礼品</a></span></li>
+            </ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '首饰']); ">首饰</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_necklace" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '项链']); ">项链</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_earring" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '헤耳环드랩']); ">耳环</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_bracelet" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '手镯']); ">手镯</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_ring" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '戒指']); ">戒指</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_brooch" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '胸针/手表']); ">胸针/手表</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_jewelry_body" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '脚链/身体链']); ">脚链/身体链</a></span></li>
+			</ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_eyewear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '时尚眼镜']); ">时尚眼镜</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_eyewear_sunglasses" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '太阳眼镜']); ">太阳眼镜</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_eyewear_readers" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '镜架']); ">镜架</a></span></li>
+			</ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_hat_hair_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子&发饰']); ">帽子&发饰</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_hat_hair_goods_hat" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子']); ">帽子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_hat_hair_goods_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '发饰']); ">发饰</a></span></li>
+			</ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_bag" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋']); ">包袋</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_bag_totes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋&背包']); ">包袋&背包</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_bag_clutches" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '手拿包']); ">手拿包</a></span></li>
+                 <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_bag_wallets" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '钱包']); ">钱包</a></span></li>
+			</ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_legwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '袜子']); ">袜子</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_legwear_socks" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '短袜']); ">短袜</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_legwear_tights" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连裤袜']); ">连裤袜</a></span></li>
+			</ul>
+		</div>
+	</li>
+     <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_belt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '腰带']); ">腰带</a></span></li>
+     <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_scarfgloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/手套']); ">围巾/手套</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_scarfgloves_scarf" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/丝巾']); ">围巾/丝巾</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_scarfgloves_gloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '手套']); ">手套</a></span></li>
+			</ul>
+		</div>
+	</li>
+     <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_acc_gift_item" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '美容工具&礼品']); ">美容工具&礼品</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'Sale']); "><em>Sale</em></a></span>
+	    <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_jewelry" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '首饰']); ">首饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_eyewear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '眼镜用品']); ">眼镜用品</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_hat_hair_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子/发饰']); ">帽子/发饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_bag" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋']); ">包袋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_legwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '袜子']); ">袜子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_belt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '腰带']); ">腰带</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_acc_scarfgloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/手套']); ">围巾/手套</a></span></li>
+            </ul>
+		</div>
+    </li>
+</ul>
+				</div>
+            </li>
+            <li id="g_shoes">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes">女鞋</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubShoes');">女鞋</a></span>
+                <div id="divSubShoes" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=bestseller_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '销售冠军']); ">畅销商品</a></span>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=whatsnew_f21_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '新品']); ">新品</a></span>
+        <div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes_sandals" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '凉鞋 / 拖鞋']); ">凉鞋 / 拖鞋</a></span>
+                </li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes_flats" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '平跟鞋 / 厚底鞋']); ">平跟鞋 / 厚底鞋</a></span>
+                </li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes_heels" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '高跟鞋']); ">高跟鞋</a></span>
+                </li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes_boots" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '短靴 / 靴子 / 室内鞋套']); ">短靴 / 靴子 / 室内鞋套</a></span>
+                </li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_shoes_sneakers" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帆布鞋 / 运动鞋']); ">帆布鞋 / 运动鞋</a></span>
+                </li>
+            </ul>
+        </div>
+    </li>
+     <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'sale']); "><em>sale</em></a></span>
+	    <div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes_flats" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '平跟鞋 / 厚底鞋']); ">平跟鞋 / 厚底鞋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes_heels" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '高跟鞋']); ">高跟鞋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes_boots" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '短靴 / 靴子 / 室内鞋套']); ">短靴 / 靴子 / 室内鞋套</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes_sandals" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '凉鞋 / 拖鞋']); ">凉鞋 / 拖鞋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_f21_shoes_sneakers" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帆布鞋 / 运动鞋']); ">帆布鞋 / 运动鞋</a></span></li>
+            </ul>
+		</div>
+    </li>
+</ul>
+				</div>
+            </li>
+            <li id="g_swimwear">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_SWIMWEAR">泳衣</a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubSwimwear');">泳衣</a></span>
+                <div id="divSubSwimwear" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_swimwear_tops" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '上装']); ">上装</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_swimwear_bottoms" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '下装']); ">下装</a></span></li>
+	<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_swimwear_onepiece" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连体泳衣']); ">连体泳衣</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=f21_swimwear_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '比基尼罩衫及配饰']); ">比基尼罩衫及配饰</a></span></li>
+</ul>
+				</div>
+            </li>
+
+			
+            <li id="g_sale">
+                <span class="global_cat"><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all"><em>sale</em></a></span>
+                <span class="global_mobile"><a href="javascript:fnToggleMegaSubMenu('divSubSale');"><em>sale</em></a></span>
+                <div id="divSubSale" class="mega_submenu mobile" style='display:none;'>
+					
+<ul>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_newlyadded" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '最新增加']); ">最新增加</a></span></li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '女装']); ">女装</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝雪纺衫/ 衬衫']); ">蕾丝雪纺衫/ 衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_jeanshop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '牛仔裤']); ">牛仔裤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_app_sports" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '瑜伽 & 运动服']); ">瑜伽 & 运动服</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_swimwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '泳衣']); ">泳衣</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_intim" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '内衣&家居服']); ">内衣&家居服</a></span></li>
+            </ul>
+		</div>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '白领女装']); ">白领女装</a></span>
+        <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', 'T恤']); ">T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_woventop" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '蕾丝衫雪纺衫 / 衬衫']); ">蕾丝衫雪纺衫 / 衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_skirt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '半身裙']); ">半身裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_dress" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '连衣裙']); ">连衣裙</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_love21_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+            </ul>
+		</div>
+    </li>
+     <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男装']); ">男装</a></span>
+	     <div class="sub_sub">
+			<ul>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_newlyadded" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '最新增加']); ">最新增加</a></span></li>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '基本款 T恤']); ">基本款 T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_graphic_tee" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '图案T恤']); ">图案T恤</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_shirts" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '衬衫']); ">衬衫</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_sweater" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '针织衫 / 毛衣']); ">针织衫 / 毛衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_pants" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '裤子']); ">裤子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_app_outer" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '外衣']); ">外衣</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男士配饰']); ">男士配饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_21men_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">鞋</a></span></li>
+            </ul>
+		</div>
+    </li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋&配饰']); ">包袋&配饰</a></span>
+		<div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_jewelry" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '首饰']); ">首饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_eyewear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '眼镜用品']); ">眼镜用品</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_hat_hair_goods" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帽子/发饰']); ">帽子/发饰</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_bag" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '包袋']); ">包袋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_legwear" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '袜子']); ">袜子</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_belt" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '腰带']); ">腰带</a></span></li>
+			    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_scarfgloves" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '围巾/手套']); ">围巾/手套</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=21men&category=sale_all_f21_acc_gift_item" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '美容工具&礼品']); ">美容工具&礼品</a></span></li>
+            </ul>
+		</div>
+	</li>
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '鞋']); ">鞋</a></span>
+	    <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes_flats" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '平跟鞋 / 厚底鞋']); ">平跟鞋 / 厚底鞋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes_heels" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '高跟鞋']); ">高跟鞋</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes_boots" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '短靴 / 靴子 / 室内鞋套']); ">短靴 / 靴子 / 室内鞋套</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes_sandals" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '凉鞋 / 拖鞋']); ">凉鞋 / 拖鞋</a></span></li>
+                 <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=sale_all_f21_shoes_sneakers" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '帆布鞋 / 运动鞋']); ">帆布鞋 / 运动鞋</a></span></li>
+			</ul>
+		</div>
+    </li>
+   
+    <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=boys&category=fab_all" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '超值单品']); ">超值单品</a></span>
+	    <div class="sub_sub">
+			<ul>
+				<li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=fab_all_app" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '女装']); ">女装</a></span></li>
+                <li><span><a href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=fab_all_men" onclick="_gaq.push(['_trackEvent', 'LeftNavigation', 'LeftNavClick', '男装']); ">男装</a></span></li>
+                
+            </ul>
+		</div>
+    </li>
+    
+	</li>    
+</ul>
+                </div>
+            </li>
+		</ul>
+	</nav>
+</div>
+<input name="ctl00$ctl00$hdSelectedSubMenu" type="hidden" id="ctl00_ctl00_hdSelectedSubMenu" class="hdSelectedSubMenu" />
+			    <div class="column span_3_of_16 float_right header_right">
+				    <div class="top_right">
+					    <!-- Search -->
+					    <div class="t_search"><a id="searchlink"><span class="top_text">搜索</span><span class="icon_t_search"></span></a>
+					    </div>
+					    <!-- Wishlist -->
+                        <div class="t_wishlist"><div class="t_wishlist">
+                            <a href="/WishList/MyList.aspx">
+                                <span id="ctl00_spn_wishlistItemCount" class="count_no wishlist_count" style="display:none;"></span>
+                                <span class="icon_t_wishlist"></span>
+                            </a>
+                        </div></div>
+					    <!-- Shopping Bag -->
+					    <div class="t_shoppingbag"><a href="/Checkout/Basket.aspx?br=f21"><span class="icon_t_shoppingbag"><span id="ctl00_haveBasket"></span></span><span id="ctl00_haveTotal" style="display:none"></span></a>
+						    <!-- Cart Overlay -->
+						    <div id="showBasket"></div>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+
+	    <!--========= Global Navigation Start ==========-->
+	    <span class="mega_mobile"><span class="icon_t_menu"></span></span>
+	    </div>
+        
+        <div class="search_wrapper new">
+            <div class="new_search">
+	            <input type="text" class="m_search" name="ihKeyword" id="ihKeyword" placeholder="search products"><span class="close_popup"></span>
+                <!--================= SEARCH SUGGESTION START ====================-->
+                <div id="search_suggestion" class="brm-autosuggest-menu-header" style="display:none;">
+                </div>
+                <!--================= SEARCH SUGGESTION END ====================-->
+            </div>
+        </div>
+    </header>
+    <!-- login script-->    
+
+
+    <script type="text/javascript">
+        checkloginlink();
+        checkLastCategoryPage();
+
+        $(window).load(function () {
+
+            var wishlistdata = getCookie("WishListData");
+
+            if (wishlistdata != "") {
+                var wobj = $.parseJSON(wishlistdata);
+
+                //Update top area wishlist count
+                $('.wishlist_count').html(wobj.length);
+                if ($('.wishlist_count').html() == 0) {
+                    $('.wishlist_count').css('display', 'none');
+                }
+                else {
+                    $('.wishlist_count').css('display', 'block');
+                }
+            }
+
+        });
+
+    </script>
+    <!-- [HEADER END] -->
+    <!--========= Main Start ==========-->
+	<main>
+		<div id="main">
+            
+            
+            <div id="div_category_kicker" class="category_kicker" style="display:none;">
+                
+
+                
+            </div>
+           
+				    <div id="div_breadcrumb" class="breadcrumb" style="display:none;">
+                        
+                    </div>
+                    <script type="text/javascript">
+                        if (location.href.toLowerCase().indexOf("category.aspx") >= 0) {
+                            $('#div_category_kicker').css('display', 'block');
+                        }
+
+                        if (location.href.toLowerCase().indexOf("product.aspx") >= 0 || location.href.toLowerCase().indexOf("f21_main.aspx") >= 0
+                        || location.href.toLowerCase().indexOf("giftcard.aspx") >= 0 || location.href.toLowerCase().indexOf("ecard/default.aspx") >= 0 || location.href.toLowerCase().indexOf("lightningdeals/") >= 0) {
+                            $('#div_breadcrumb').css('display', 'block');
+                        }
+                    </script>
+
+				    <!-- Right Content -->
+                    
+
+<div class="column span_16_of_16 wrapper float_none">
+    <!-- CMS --> 
+    <div class="column span_16_of_16 column_1"><div class="owl-carousel owl-theme" id="carousel_main"><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_double&entrance=HomeBannerM1"><img alt="双12限时3折购" src="http://www.forever21.cn/images/home/20181206_Promo_double.gif" /></a></div><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_xmas&entrance=HomeBannerM2"><img alt="圣诞萌趣" src="http://www.forever21.cn/images/home/20181206_Promo_xmas.gif" /></a></div></div></div>
+
+    <div class="column span_16_of_16 new_kicker"><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_back&entrance=HomeBannerC1"><img alt="返季清仓" src="http://www.forever21.cn/images/home/20181206_Promo_back.gif" /></a></div><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_outer&entrance=HomeBannerC2"><img alt="外套毛衣专区" src="http://www.forever21.cn/images/home/20181206_Promo_outer.jpg" /></a></div><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_sb3&entrance=HomeBannerC3"><img alt="经典鞋包" src="http://www.forever21.cn/images/home/20181206_Promo_sb3.gif" /></a></div><div><a class="gtm_promo" data-promo-creative-name="" data-promo-id="" data-promo-name="" data-promo-position="" href="http://www.forever21.cn/Product/Category.aspx?br=f21&category=Promo_new6&entrance=HomeBannerC4"><img alt="秋冬上新" src="http://www.forever21.cn/images/home/20181206_Promo_new6.jpg" /></a></div></div>
+
+
+    <div class="column span_16_of_16 new_landing_list">
+        <!-- Main Carousel 01 Start -->
+        <div class="column span_16_of_16">
+            <!-- product_grid Start -->
+            
+
+<div class="dividedline"><span>每日上新</span><p class="view_more"><a href="/Product/Category.aspx?br=f21&category=whatsnew_all_f21">查看更多</a></p></div>
+<div id="owl-main-one" class="owl-carousel owl-theme uk-margin-bottom">
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000305976" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000305976">
+                            <img id="img_2000305976" src="http://www.forever21.cn/images/default_330/00305976-02.jpg" alt="女士格纹V领卫衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000305976">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士格纹V领卫衣</h1>
+                            <div class="price_c">159.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000313476" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000313476">
+                            <img id="img_2000313476" src="http://www.forever21.cn/images/default_330/00313476-01.jpg" alt="女士图形色块套衫风衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000313476">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士图形色块套衫风衣</h1>
+                            <div class="price_c">239.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000318431" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000318431">
+                            <img id="img_2000318431" src="http://www.forever21.cn/images/default_330/00318431-03.jpg" alt="女士雪纺绑带梭织圆领上衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000318431">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士雪纺绑带梭织圆领上衣</h1>
+                            <div class="price_c">149.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000329694" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000329694">
+                            <img id="img_2000329694" src="http://www.forever21.cn/images/default_330/00329694-02.jpg" alt="女士短款仿绒面时尚夹克" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000329694">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士短款仿绒面时尚夹克</h1>
+                            <div class="price_c">259.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000318093" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000318093">
+                            <img id="img_2000318093" src="http://www.forever21.cn/images/default_330/00318093-02.jpg" alt="女士印花圆领喇叭袖上衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000318093">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士印花圆领喇叭袖上衣</h1>
+                            <div class="price_c">149.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000312417" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312417">
+                            <img id="img_2000312417" src="http://www.forever21.cn/images/default_330/00312417-03.jpg" alt="女士雪纺模拟领无袖上衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312417">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士雪纺模拟领无袖上衣</h1>
+                            <div class="price_c">109.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000331361" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000331361">
+                            <img id="img_2000331361" src="http://www.forever21.cn/images/default_330/00331361-02.jpg" alt="女士针织纽扣式长袖开衫" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000331361">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士针织纽扣式长袖开衫</h1>
+                            <div class="price_c">149.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000316196" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000316196">
+                            <img id="img_2000316196" src="http://www.forever21.cn/images/default_330/00316196-01.jpg" alt="女士运动针织连帽夹克" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000316196">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士运动针织连帽夹克</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000326015" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000326015">
+                            <img id="img_2000326015" src="http://www.forever21.cn/images/default_330/00326015-01.jpg" alt="女士时尚格纹外套大衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000326015">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士时尚格纹外套大衣</h1>
+                            <div class="price_c">479.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000336783" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000336783">
+                            <img id="img_2000336783" src="http://www.forever21.cn/images/default_330/00336783-03.jpg" alt="女士简约网格长袖外套" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000336783">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士简约网格长袖外套</h1>
+                            <div class="price_c">239.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000311550" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000311550">
+                            <img id="img_2000311550" src="http://www.forever21.cn/images/default_330/00311550-04.jpg" alt="女士针织弹力上衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000311550">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士针织弹力上衣</h1>
+                            <div class="price_c">99.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000329806" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000329806">
+                            <img id="img_2000329806" src="http://www.forever21.cn/images/default_330/00329806-02.jpg" alt="[F21女士罗纹针织中长连衣裙" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000329806">
+                        <div class="item_info">
+                            <h1 class="item_name_c">[F21女士罗纹针织中长连衣裙</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000330002" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000330002">
+                            <img id="img_2000330002" src="http://www.forever21.cn/images/default_330/00330002-04.jpg" alt="女士高领紧身针织连衣裙" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000330002">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士高领紧身针织连衣裙</h1>
+                            <div class="price_c">99.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000304733" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000304733">
+                            <img id="img_2000304733" src="http://www.forever21.cn/images/default_330/00304733-02.jpg" alt="女士印花裹身连衣裙" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000304733">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士印花裹身连衣裙</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000328485" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000328485">
+                            <img id="img_2000328485" src="http://www.forever21.cn/images/default_330/00328485-04.jpg" alt="女士纽扣式牛仔迷你半身裙" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000328485">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士纽扣式牛仔迷你半身裙</h1>
+                            <div class="price_c">129.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000315265" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000315265">
+                            <img id="img_2000315265" src="http://www.forever21.cn/images/default_330/00315265-02.jpg" alt="女士波尔卡圆点休闲套装" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000315265">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士波尔卡圆点休闲套装</h1>
+                            <div class="price_c">199.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000312740" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312740">
+                            <img id="img_2000312740" src="http://www.forever21.cn/images/default_330/00312740-04.jpg" alt="女士天鹅绒暗影条纹长袍" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312740">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士天鹅绒暗影条纹长袍</h1>
+                            <div class="price_c">179.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000316029" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000316029">
+                            <img id="img_2000316029" src="http://www.forever21.cn/images/default_330/00316029-03.jpg" alt="女士都市简约时尚连身裤" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000316029">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士都市简约时尚连身裤</h1>
+                            <div class="price_c">139.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000312836" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312836">
+                            <img id="img_2000312836" src="http://www.forever21.cn/images/default_330/00312836-01.jpg" alt="女士纯色运动针织紧身裤" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000312836">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士纯色运动针织紧身裤</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000315499" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000315499">
+                            <img id="img_2000315499" src="http://www.forever21.cn/images/default_330/00315499-03.jpg" alt="女士时尚侧拉链阔腿裤" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=whatsnew_all_f21&productid=2000315499">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士时尚侧拉链阔腿裤</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+</div>
+
+            <!-- product_grid End -->
+        </div>
+        <!-- Main Carousel 01 End -->
+        
+        <!-- Main Carousel 02 Start-->
+        <div class="column span_16_of_16">
+            <!-- product_grid Start -->
+            
+
+<div class="dividedline"><span>热卖精选</span><p class="view_more"><a href="/Product/Category.aspx?br=f21&category=bestseller_all">查看更多</a></p></div>
+<div id="owl-main-two" class="owl-carousel owl-theme uk-margin-bottom">
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000314370" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000314370">
+                            <img id="img_2000314370" src="http://www.forever21.cn/images/default_330/00314370-01.jpg" alt="女士圣诞主题的Fair Isle图案毛衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000314370">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士圣诞主题的Fair Isle图案毛衣</h1>
+                            <div class="price_c">279.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000301963" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000301963">
+                            <img id="img_2000301963" src="http://www.forever21.cn/images/default_330/00301963-02.jpg" alt="字母校队毛毡夹克外套女" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000301963">
+                        <div class="item_info">
+                            <h1 class="item_name_c">字母校队毛毡夹克外套女</h1>
+                            <div class="price_c">349.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000311493" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000311493">
+                            <img id="img_2000311493" src="http://www.forever21.cn/images/default_330/00311493-02.jpg" alt="男子骆驼刺绣针织毛衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000311493">
+                        <div class="item_info">
+                            <h1 class="item_name_c">男子骆驼刺绣针织毛衣</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000311501" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000311501">
+                            <img id="img_2000311501" src="http://www.forever21.cn/images/default_330/00311501-02.jpg" alt="男子卡通麋鹿毛衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000311501">
+                        <div class="item_info">
+                            <h1 class="item_name_c">男子卡通麋鹿毛衣</h1>
+                            <div class="price_c">239.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000290173" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000290173">
+                            <img id="img_2000290173" src="http://www.forever21.cn/images/default_330/00290173-03.jpg" alt="女子毛茸茸人造毛皮大衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000290173">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女子毛茸茸人造毛皮大衣</h1>
+                            <div class="price_c">369.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000307811" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000307811">
+                            <img id="img_2000307811" src="http://www.forever21.cn/images/default_330/00307811-02.jpg" alt="女士拉丝拼色毛衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000307811">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士拉丝拼色毛衣</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000307377" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000307377">
+                            <img id="img_2000307377" src="http://www.forever21.cn/images/default_330/00307377-02.jpg" alt="女士时尚条纹修身毛衣" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000307377">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士时尚条纹修身毛衣</h1>
+                            <div class="price_c">179.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000302150" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000302150">
+                            <img id="img_2000302150" src="http://www.forever21.cn/images/default_330/00302150-03.jpg" alt="女士撞色拉链前夹克" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000302150">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士撞色拉链前夹克</h1>
+                            <div class="price_c">349.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000331101" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000331101">
+                            <img id="img_2000331101" src="http://www.forever21.cn/images/default_330/00331101-02.jpg" alt="女士罗纹V领开衫" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000331101">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士罗纹V领开衫</h1>
+                            <div class="price_c">159.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000295265" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000295265">
+                            <img id="img_2000295265" src="http://www.forever21.cn/images/default_330/00295265-02.jpg" alt="女子仿毛领针织开衫" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000295265">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女子仿毛领针织开衫</h1>
+                            <div class="price_c">309.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+    <!-- product_grid Start -->
+    <div class="product_grid c_list item uk-text-center" style="min-width: 100%">
+        <!-- loop 5개 - Product Item Start -->
+        
+                <div class="product_item gtm_prod" id="2000324263" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000324263">
+                            <img id="img_2000324263" src="http://www.forever21.cn/images/default_330/00324263-02.jpg" alt="女士单排扣天鹅绒西装外套" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000324263">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士单排扣天鹅绒西装外套</h1>
+                            <div class="price_c">309.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000292025" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000292025">
+                            <img id="img_2000292025" src="http://www.forever21.cn/images/default_330/00292025-07.jpg" alt="女士时髦针织开衫" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000292025">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士时髦针织开衫</h1>
+                            <div class="price_c">179.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000318863" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000318863">
+                            <img id="img_2000318863" src="http://www.forever21.cn/images/default_330/00318863-01.jpg" alt="女士条纹修身连衣裙" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000318863">
+                        <div class="item_info">
+                            <h1 class="item_name_c">女士条纹修身连衣裙</h1>
+                            <div class="price_c">179.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000310255" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000310255">
+                            <img id="img_2000310255" src="http://www.forever21.cn/images/default_330/00310255-02.jpg" alt="男士长袖机车风格夹克" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000310255">
+                        <div class="item_info">
+                            <h1 class="item_name_c">男士长袖机车风格夹克</h1>
+                            <div class="price_c">309.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="product_item gtm_prod" id="2000309288" >
+                    <div class="item_pic">
+                        <a href="/Product/Product.aspx?category=bestseller_all&productid=2000309288">
+                            <img id="img_2000309288" src="http://www.forever21.cn/images/default_330/00309288-02.jpg" alt="男子洛杉矶1996年图形连帽衫" ><br />
+                        </a>                                                    
+                    </div>
+                    <a href="/Product/Product.aspx?category=bestseller_all&productid=2000309288">
+                        <div class="item_info">
+                            <h1 class="item_name_c">男子洛杉矶1996年图形连帽衫</h1>
+                            <div class="price_c">189.00元</div>
+                            <div class="event_msg"></div>
+                        </div>
+                    </a>
+                </div>
+            
+        <!-- loop 5개 - Product Item End -->
+    </div>
+    <!-- product_grid End -->
+
+</div>
+
+            <!-- product_grid End -->
+        </div>
+        <!-- Main Carousel 02 End -->
+        
+        <!-- Main Carousel 03 Start -->
+        <div class="column span_16_of_16" style="display: block">
+            <!-- product_grid Start -->
+            
+            <!-- product_grid End -->
+        </div>
+        <!-- Main Carousel 03 End -->
+
+    </div>
+
+    
+
+    <!-- Hash Tag Start -->
+    <div class="column span_16_of_16 column_1 hashtag_area"><h2><a><span>热搜关键词</span> </a> </h2><div><a href="/Product/Category.aspx?br=f21&category=f21_app_woventop_shirt&entrance=TrendKeywords">衬衫</a> <a href="/Search/SearchResultList.aspx?br=f21&filter=%E9%A1%B9%E9%93%BE&SearchText=%E9%A1%B9%E9%93%BE&entrance=TrendKeywords">层叠项链</a> <a href="/Product/Category.aspx?br=f21&category=f21_app_sweater&entrance=TrendKeywords">针织衫/毛衣</a> <a href="/Product/Category.aspx?br=f21&category=f21_app_dress&entrance=TrendKeywords">连衣裙 </a> <a href="/Product/Category.aspx?br=f21&category=f21_app_outer&entrance=TrendKeywords">外套 </a> <br /><a href="/Search/HashTagResultList.aspx?br=f21&filter=天鹅绒&SearchText=天鹅绒&SearchOption=All&entrance=TrendKeywords">天鹅绒</a> <a href="/Search/HashTagResultList.aspx?br=f21&filter=格纹&SearchText=格纹&SearchOption=All&entrance=TrendKeywords">格纹</a> <a href="/Product/Category.aspx?br=f21&category=Promo_offshoulder&entrance=TrendKeywords">一字肩</a> <a href="/Product/Category.aspx?br=f21&category=Promo_embroid&entrance=TrendKeywords">刺绣</a> <a href="/Product/Category.aspx?br=f21&category=Promo_floralprint&entrance=TrendKeywords">印花</a> <a href="/Product/Category.aspx?br=f21&category=Promo_lace&entrance=TrendKeywords">蕾丝</a> <a href="/Product/Category.aspx?br=f21&category=Promo_denim&entrance=TrendKeywords">牛仔</a> <br /><a href="/Product/Category.aspx?br=f21&category=f21_shoes&entrance=TrendKeywords">鞋靴</a> <a href="/Product/Category.aspx?br=f21&category=f21_acc_bag&entrance=TrendKeywords">包</a> <a href="/Product/Category.aspx?br=f21&category=f21_acc_jewelry_necklace&entrance=TrendKeywords">项链</a> <a href="/Product/Category.aspx?br=f21&category=f21_acc_jewelry_earring&entrance=TrendKeywords">耳环</a> <a href="/Product/Category.aspx?br=f21&category=Promo_F21xME&entrance=TrendKeywords">F21xMe</a> </div></div>
+
+    <!-- Hash Tag End -->
+     
+</div>
+<!--Subscribe Popup-->
+<script type="text/javascript">
+    function closePop_SignUp() {
+        $('.signup_enjoy').hide();
+    }
+    function EmailSubscribe(selector, type) {
+        if ($(selector).val() == '' || (/^[_0-9a-zA-Z-]+(\.[_0-9a-zA-Z-]+)*@[0-9a-zA-Z-]+(\.)+([0-9a-zA-Z-]+)([\.0-9a-zA-Z-])*$/).test($(selector).val()) == false) {
+            alert("请确认您的邮件。");
+            $(selector).focus();
+            return false;
+        }
+        else {
+            document.getElementById("pcEmailOptin").disabled = true;
+            SubScribeEmail(selector, "/Controls/Subscribe/EmailSubscribe.aspx", "forever21");
+            return;
+        }
+    }
+    //PopUp 설정
+    function SubScribeEmail(selector, url, emailType) {
+        var email = $(selector).val();
+        var nowTime = '2018-12-07 8:23:10';
+        $.ajax({
+            type: "POST",
+            url: url,
+            data: {
+                email: email,
+                subTime: nowTime,
+                emailType: emailType
+            },
+            success: function (sResultText) {
+                if (sResultText == "OK") {
+                    $(selector).val('');
+                    $('.signup_enjoy').hide();
+                    $('#email_result').show();
+                } else {
+                    alert(sResultText);
+                    $(selector).focus();
+                }
+                document.getElementById("pcEmailOptin").disabled = false;
+                return;
+            },
+            error: function () {
+                alert("发生错误信息，请重试");
+                $(selector).focus();
+                document.getElementById("pcEmailOptin").disabled = false;
+                return;
+            }
+        });
+    }
+</script>
+<!-- emailOptin:등록 -->
+
+<!-- e:등록 -->
+
+<!-- s:완료 -->
+<div class="signup_enjoy" id="email_result" style="display:none;">
+    <div class="closeIcon" onclick="javascript:closePop_SignUp()"><img src="/images/en/common/icons/icon_close.png" alt="close_btn"/></div>
+    <div class="signup_img"><img src="" alt=""/></div>
+</div>
+<!-- e:완료 -->
+
+<!-- GOOGLE -->
+<script type="text/javascript">
+    var google_tag_params = {
+        prodid: '',
+        pagetype: 'home',
+        pname: '',
+        pcat: '',
+        value: ''
+    };
+</script>
+
+			    
+		</div>
+	</main>
+	<!--========= Main End ==========-->
+    <!-- [FOOTER] -->
+    <footer>
+        
+<script type="text/javascript" src="/mobile/common/js/jquery.bpopup.min.js"></script>
+<script type="text/javascript" src="/Mobile/Common/js/jquery.blockUI.js?v=20161220_01"></script>
+<script type="text/javascript">
+    function fn_ClickWechatIcon() {
+        $("#popup_wechat").bPopup({
+            fadeSpeed: "fast",
+            closeClass: "closePopup_msg",
+            follow: [true, true],
+            zIndex: 99999,
+            position: ["auto", "auto"],
+            onClose: function () {
+                if (redirect == "Y") {
+                    location.href = "/default.aspx";
+                }
+            }
+        });
+    }
+    function fn_ClickDownloadApp() {
+        $("#popup_downloadapp").bPopup({
+            fadeSpeed: "fast",
+            closeClass: "closePopup_msg",
+            follow: [true, true],
+            zIndex: 99999,
+            position: ["auto", "auto"],
+            onClose: function () {
+                if (redirect == "Y") {
+                    location.href = "/default.aspx";
+                }
+            }
+        });
+    }
+    
+</script>
+<div id="popup_wechat" style="display:none; z-index:inherit">
+    <div class="btn_close"><a onclick="fnUnBlock()"><i class="fa fa-times"></i></a></div>
+    <img src="/images/img_qr.jpg" width="auto;" />
+</div>
+<div id="popup_downloadapp" style="display:none; z-index:inherit">
+    <div class="btn_close"><a onclick="fnUnBlock()"><i class="fa fa-times"></i></a></div>
+    <img src="/images/img_appqr.jpg" width="372px" height="526px" />
+</div>
+<div class="wrapper">
+	<!-- Email Sign Up -->
+    <div class="column span_16_of_16">
+        <p class="signup_title">SIGN UP FOR SPECIAL PROMOTIONS</p>
+        <p class="signup_subtitle">订阅FOREVER21邮件</p>
+        <div class="column span_10_of_16 float_none signup_wrapper">
+            <form id="Form1" action="/SubScribe/SubScribe.aspx" onsubmit="return GoSubScribe('f21');" method="post">
+                <div class="column span_14_of_16">
+                    <input type="text" name="ibEmailAddress" id="ibEmailAddress" placeholder="电子邮箱地址" onclick="this.value=''; $('.tooltip').css('display','none');" maxlength="50" />
+                    <div class="tooltip tooltip_subscribe" style="display:none;">必填项</div>
+                </div> 
+                <div class="column span_2_of_16">
+                    <button type="button" id="offerButton" onclick="return GoSubScribe()">注册</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer Nav -->
+    <div class="column span_16_of_16 footer_nav">
+        <!-- Nav 1 -->
+        <div class="column span_4_of_16">
+            <p class="footer_nav_title">company info</p>
+            <ul>
+				<li><a href="http://www.forever21.cn/Company/About.aspx?br=f21">公司介绍</a></li>
+                <li><a href="http://www.forever21.cn/Company/Recruit.aspx?br=f21">招聘信息</a></li>
+                <li><a href="http://www.forever21.cn/Company/Store.aspx?br=f21">店铺指南</a></li>
+			</ul>
+        </div>
+        <!-- Nav 2 -->
+        <div class="column span_4_of_16">
+            <p class="footer_nav_title">help</p>
+            <ul>
+				<li><a href="http://www.forever21.cn/CustomerService/CustomerService.aspx?br=f21&amp;content=faq_shipping">常见问题</a></li>
+				<li><a href="http://www.forever21.cn/CustomerService/CustomerService.aspx?br=f21&amp;content=returns">配送 / 退货咨询</a></li>
+				<li><a href="http://chat56.live800.com/live800/chatClient/chatbox.jsp?companyID=175833&configID=52877&jid=5732210566" target="_blank">在线客服</a></li>
+				<li>客服热线 : 400-820-0236<em>(周一~周五 09:00-18:00)</em></li>
+                <li>客服邮箱：<a href="mailto:chncs@forever21.com">chncs@forever21.com</a></li>
+			</ul>
+        </div>
+        <!-- Nav 3
+        <div class="column span_4_of_16">
+            <p class="footer_nav_title">quick links</p>
+            <ul>
+				<li><a href="http://www.forever21.cn/Company/Rule.aspx?br=f21">이용약관</a></li>
+                <li><a href="http://www.forever21.cn/Company/Privacy.aspx?br=f21" class="fontC_3">개인정보 취급 방침</a></li>
+            </ul>
+        </div> -->
+        <!-- Nav 4 -->
+        <div id="NewsQuick" class="column span_4_of_16">
+            <p class="footer_nav_title">News & Event</p>
+            <ul>
+                
+                    <li>- <a href="http://www.forever21.cn/Event/News.aspx?Idx=239">2018年春节发货通告"></a>
+                    </li>
+                
+                    <li>- <a href="http://www.forever21.cn/Event/News.aspx?Idx=238">北京地区订单物流延迟公告"></a>
+                    </li>
+                
+                    <li>- <a href="http://www.forever21.cn/Event/News.aspx?Idx=237">南京东路店庆来袭，丰富好礼宠爱你"></a>
+                    </li>
+                
+			</ul>
+            <a href="http://www.forever21.cn/Event/News.aspx" class="float_right underline">+ more</a>
+        </div>
+    </div>
+
+    <!-- Social -->
+    <div class="column span_16_of_16 social_wrapper">
+        <a href="http://www.weibo.com/forever21china" target="_blank"><span class="icon_weibo"></span></a>
+		<a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20120410173653136" target="_blank" class="wechat"><span class="icon_wechat"></span><em><img src="/images/img_qr.jpg" alt="qrCode" width="100"></em></a>
+        <a onclick="fn_ClickDownloadApp();"><span class="icon_appstore"></span></a>
+    </div>
+
+    <!-- Footer Copyright -->
+    <div class="column span_16_of_16 copyright space_top">
+        <span>forever21&#169;IS A REGISTERED TRADEMARK OF FOREVER21, INC. ALL RIGHTS RESERVED.</span>
+        <span>
+            <a href="http://www.forever21.cn/Company/About.aspx?br=f21">公司简介</a> |
+            <a class="m_terms" href="http://www.forever21.cn/Company/Rule.aspx?br=f21">服务条款</a> |
+            <a href="http://www.forever21.cn/Company/Recruit.aspx?br=f21">招聘信息</a> |
+            <a class="m_privacy" href="http://www.forever21.cn/Company/Privacy.aspx?br=f21">个人信息隐私政策</a> | 
+            <a href="/">FOREVER21中国官网</a>
+            <br/><a href="/">永远二十一商业（上海）有限公司</a> | 
+            <a style="color:#999; pointer-events:none;">沪ICP备11045666</a> | 
+            <a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20120410173653136" target="_blank" class="icon_address">上海工商</a>
+        </span>
+	</div>
+</div>
+
+        <div style="color:White" >02</div>
+    </footer>
+    <script type="text/javascript">
+        $('a#searchlink').click(function () {
+            if ($('.search_wrapper.new').css('display') == 'none') {
+                $('.search_wrapper.new').css('display', 'block');
+                $('#ihKeyword').focus();
+            }
+            else {
+                $('.search_wrapper.new').css('display', 'none');
+                $('#ihKeyword').val('');
+                $('.new_search #search_suggestion').css('display', 'none');
+            }
+        });
+
+        $('.new_search .close_popup').click(function () {
+            $('.search_wrapper.new').css('display', 'none');
+            $('#ihKeyword').val('');
+            $('.new_search #search_suggestion').css('display', 'none');
+        });
+    </script>
+    <!--CNECOM02-->
+    
+<!-- ScriptArea_Body Start -->
+<!-- ScriptArea_Body End -->
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Forever21</title>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,330 @@
+@charset "utf-8";
+/* CSS Document */
+div,p,ul,li,html,body{
+	margin:0;
+	padding:0;
+}
+
+.cookieBox{
+	float: left;
+	color:white;
+	margin-left:150px;
+}
+/*sencond*/
+ .sencond{
+ 	height:83px;
+ 	width: 100%;
+ 	color:#222222; 
+	 overflow: hidden;
+	 position: relative;
+	 background: white;
+ 	z-index: 999999;
+ 	}
+ .sencond1 img{
+ 	width:140px;
+ 	height:31px;
+ 	margin-left: 20px;
+ 	margin-top: 20px;
+ 	float: left;
+ }
+ .sencond2 ul{
+    margin-left: 300px;
+    margin-top: 25px;
+ }
+ .sencond2 ul li{
+ 	list-style: none;
+ 	float: left; 
+ 	margin-right:25px;
+
+ }
+ .sencond2 ul li a{
+ 	text-decoration: none;
+ 	font-size: 13px;
+ 	color: #222222;
+
+ }
+.sencond3 p{
+	font-size:13px;
+	color: black;
+}
+.sencond3 {
+	float: right;
+	margin-right: 20px;
+}
+.sou{
+	display: none;
+	overflow: hidden;
+	text-align: center;
+}
+.input2{
+	width:253px;
+	height: 36px;
+	float: left;
+	/* display: none; */
+}
+.cha{
+	float: left;
+	margin-left: -37px;
+	margin-top: 9px;
+	vertical-align: middle;
+	/* display: none; */
+	cursor: pointer;
+}
+.fdj{
+	display: inline-block;
+	vertical-align: top;
+	/*vertical-align: middle;*/
+}
+.logo01{
+	width:19px;
+	height: 22px; 
+	margin-top: 4px;
+	cursor: pointer;
+	margin-right: 15px;
+}
+.log{
+	height: 100%; 
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;;
+}
+
+.sencond33{
+	display: inline-block;
+	vertical-align: top;
+}
+.logo02{
+	width:21px;
+	height: 20px; 
+	margin-top: 4px;
+	margin-right: 10px;
+}
+.logo03{
+	width:20px;
+	height: 20px; 
+   /*margin:15px;*/
+   margin-left:10px;
+   }
+#sale{
+	color: #d26d51;
+}
+
+/*banner*/
+.third{
+	height: 456px;
+	width:100%;
+}
+
+/*four*/
+.four{
+	height: 490px;
+	border-bottom: 1px solid #dddddd;
+	margin-left: 12px;
+}
+.four img{
+	width:305px;
+	height:425px; 
+	margin-top: 15px;
+}
+.four1{
+	margin-bottom: 20px;
+
+}
+.four1 a{
+   /* display: block; */
+   text-decoration: none;
+   height: 25px;
+   width:120px;
+   background: white;
+   font-size:18px; 
+   color:#000;
+   margin:auto;
+   margin-left: 540px;
+   margin-top: -16px;
+   padding: 11px;
+}
+.ff1 a{
+	/* margin-bottom: 39px; */
+	vertical-align: top;
+}
+.four1 a:nth-child(2){
+	margin-right: 10px;
+	height: 20px;
+    width:100px;
+	font-size:12px;
+	color: #777777;
+	
+}
+.four2 .four23 a{
+	margin-bottom: 10px;
+}
+
+
+
+.four22{
+	width: 100%;
+	height: 1px;
+	background:#dddddd;
+	margin-bottom: 30px;
+}
+.four12{
+	margin-bottom: -14px;
+}
+
+.return-top{
+        width:38px;
+        height:35px;
+        position:fixed;
+        bottom:20px;
+        right:20px;
+        text-align:center;
+        cursor:pointer;
+        display:none;
+    }
+    .return-top.active{
+        display:block;
+    }
+/*five*/
+.picScroll {
+	width: 100%;
+margin-bottom: 20px; 
+}
+  
+  .picScroll .bd {
+	position: relative; }
+  
+  .picScroll .prev, .picScroll .next {
+	position: absolute;
+	top: 160px;
+	left: 18px;
+	display: block;
+	width: 50px;
+	height: 50px;
+	background: url(img/logo02.png);
+	background-size: 50px 50px;
+	/* background: #000; */
+	z-index: 9;
+	overflow: hidden; }
+  
+  .picScroll .next {
+	left: auto;
+	right: 12px;
+	background: url(img/logo03.png);
+	z-index: 9;
+	/* background: #000; */
+	background-size: 50px 50px; }
+  
+  .picScroll ul {
+	overflow: hidden;
+	zoom: 1; }
+  
+  .picScroll li {
+	width: 236px;
+	margin-left: 15px;
+	position: relative;
+	float: left;
+	display: inline; }
+  
+  .picScroll li .pic {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	margin-bottom: 6px; }
+  
+  .picScroll li .pic img {
+	width: 236px;
+	height: 353px;
+	display: block;
+	background: #ddd; }
+  
+  .picScroll li p {
+	height: 15px;
+	margin-top: 10px;
+	line-height: 15px;
+	overflow: hidden; 
+	text-decoration: none;}
+  
+  .picScroll li .txt1 a {
+	color: #333;
+	font-size: 15px; 
+	text-decoration: none;
+}
+  .img02{
+	  width: 50px;
+	  height: 50px;
+  }
+  .picScroll li .movielist_tt {
+	position: relative;
+	height: 16px;
+	line-height: 16px;
+	padding-right: 30px;
+	overflow: hidden;
+	position: relative;
+	text-decoration: none; }
+  
+  .picScroll li .movielist_tt a {
+	font-size: 15px;
+	color: #222; 
+  text-decoration: none;}
+  
+  .key {
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+	padding: 105px 0; }
+	.key .key_title {
+	  padding-bottom: 35px; }
+	  .key .key_title a {
+		display: inline-block;
+		text-align: center;
+		width: 133px;
+		height: 31px;
+		border: 1px solid #44cbb3;
+		line-height: 31px;
+		color: #44cbb3;
+		background-color: #fff; }
+	.key .key_oneRow a, .key .key_twoRow a, .key .key_threeRow a {
+	  font-size: 14px; }
+/*six*/
+.six{
+	text-align: center;
+	margin-top: 120px;
+}
+
+.six1 a{
+	width: 120px;
+	height:30px ;
+	color:#44cbb3 ;
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 30px;
+	border: 1px solid #44cbb3;
+	padding:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+.six2 a{
+	/*display: block;*/
+	color:black; 
+	background:#ededed;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 30px;
+	padding: 10px;
+	margin-right: 10px;
+	
+
+
+	
+}
+.sixsix{
+	margin-top: 35px;
+	
+}
+.six2{
+	margin-top:20px;
+	/* margin-right: 30px; */
+}
+/* seven */
