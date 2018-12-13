@@ -1,0 +1,398 @@
+@charset "utf-8";
+/* CSS Document */
+div,p,ul,li,html,body{
+	margin:0;
+	padding:0;
+}
+body,html{
+    height: 100%;
+}
+.center1{
+    width:100%;
+    height: 100%;
+    /* background: #d26d51; */
+}
+.loginLeft{
+    width:508px;
+    height: 508px;
+    background: white;
+    margin-left: 177px;
+    margin-top: 53px;
+    float: left;
+}
+.longinOne p{
+  display: block;
+  width:393px;
+  font-size: 18px;
+  line-height: 50px;
+  border-bottom: 1px solid #cccccc;
+  margin-left: 10px;
+  font-weight: 900;
+}
+.longinP{
+    font-size: 14px;
+    color:black;
+    margin: 10px;
+}
+.longinp2{
+    font-size: 12px;
+    margin-top: 25px;
+    margin-left: 10px;
+    color: #555555;
+}
+#inputA{
+    width: 393px;
+    height:30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    background: #faffbd;
+    border: none;
+    border:1px solid #cccccc;
+}
+#inputB{
+    width:16px;
+    height: 16px;
+    margin-top: 18px;
+    margin-left: 10px;
+    text-align: center;
+   /* -webkit-appearance: none; */
+   border:1px solid #a9a9a9;
+   vertical-align: bottom;
+}
+.inputSpan{
+    font-size: 12px;
+    vertical-align: middle;
+    padding:5px;
+
+}
+.inP{
+    height: 16px;
+}
+.inP .inputA1{
+	font-size: 10px;
+	color: #888888;
+    float: right;
+    text-decoration: underline;
+    margin-right: 104px;
+    margin-top: 20px;
+	
+}
+.zfb img{
+	width: 18px;
+	height: 18px;
+	margin-top: 7px;
+    vertical-align: bottom;
+    margin-left: 10px;
+}
+.zfbSpan{
+	font-size: 12px;
+	margin-top: 7px;
+	margin-left: 3px;
+}
+#dl{
+	text-decoration: none;
+	display: block;
+	width: 58px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	color: white;
+	background:#d26d51;
+	margin-left: 10px;
+	margin-top:5px;
+	border-radius: 2px;
+}
+.loginRight{
+	width: 402px;
+	height: 100%;
+	background: white;
+	float: left;
+    margin-top: 53px;
+    position: relative;
+}
+.disRight1{
+    /* display: none; */
+    height: 100%;
+    /* 1做好后取消影藏 */
+}
+.rUl{
+	margin-left: 20px;
+	font-size: 12px;
+    margin-top: 20px;
+    /* display: none; */
+}
+.rUl li{
+	margin-top: 10px;;
+}
+#zc{
+	display: block;
+	width: 58px;
+	height: 38px;
+	background:#111111;
+	color: white ;
+	margin-left: 10px;
+	line-height: 38px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 2px;
+	margin-top: 34px;
+}
+.disRight2{
+    width: 400px;
+    height: 100%;
+    display: none;
+    /* 2做好后隐藏 */
+    position: absolute;
+    left: 0;
+    top:0;
+}
+.parent{
+    position: relative;
+    width: 395px;
+    height:320px;
+    margin-left: 10px;
+}
+.child{
+    position: absolute;
+    left: 0;
+    top: 120px;
+    bottom: 0;
+    right: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border: 1px solid #cccccc;
+}
+.child p{
+    font-size: 10px;
+}
+.disP{
+    font-size: 12px;
+    margin-left: 10px;
+}
+#inputC{
+    margin-left:190px;
+    margin-top:10px;
+}
+#inputD{
+    margin-left:190px;
+    margin-top:10px;
+}
+.par1{
+    margin-top: -113px;
+}
+.par2{
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#lastD2{
+    text-decoration: none;
+    display: block;
+    height:38px;
+    width:84px;
+    color: white;
+    background-color:#111111;
+    line-height: 38px;
+    text-align: center; 
+    border-radius: 2px;
+    margin-top: 44px;
+    float: left;
+    margin-left: 10px;
+}
+#lastD3{
+    text-decoration: none;
+    display: block;
+    height: 38px;
+    width:57px;
+    color:black;
+    background:#dddddd;
+    line-height: 38px;
+    text-align: center;
+    border-radius: 2px;
+    margin-top: 44px;
+    float: right;
+    
+}
+#yhm{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.disRight3{
+	width: 450px;
+    height: 100%;
+    display: none;
+}
+.disRight3 p{
+    font-size: 12px;
+    color:#555555;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#yx{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#sex{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#mima1{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+    float: left;
+}
+#mspan{ 
+    	color:red;
+    	font-size: 14px;
+    }
+#mspan1{ 
+    	color:red;
+    	font-size: 14px;
+    }
+ #ysspan{ 
+    	color:red;
+    	font-size: 14px;
+    }
+ #nspan{
+    	color:red;
+    	font-size: 14px;
+    	background: #44CBB3;
+    }
+#mima2{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#B1{
+    width: 126px;
+    height:38px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#B2{
+    width: 126px;
+    height:38px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 3px;
+}
+#B3{
+    width: 127px;
+    height:38px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+}
+#phone{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px; 
+}
+#yzm1{
+    width: 393px;
+    height:36px;
+    border: none;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    margin-top: 7px;
+    margin-left: 10px; 
+}
+#suiji{
+    width:90px;
+    height:20px;
+    font-size: 14px;
+    letter-spacing: 5px;
+    background: gray;
+    color: white;
+    border:none; 
+    border: 1px solid #cccccc;
+    margin-left: -58px; 
+    margin-top: 6px;
+}
+#tExt{
+    font-size: 10px;
+    /* width:90px; */
+    height: 22px;
+    color:#ff6600;
+    border:none;
+    margin-left: 10px; 
+    margin-top: 13px;
+    background: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#lastQ{
+    display: block;
+    width:58px ;
+    height:39px ;
+    line-height: 39px;
+    text-align: center;
+    background: #111111;
+    color:white;
+    text-decoration: none;
+    border-radius: 2px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#lastX{
+    display: block;
+    width:58px ;
+    height:39px ;
+    line-height: 39px;
+    text-align: center;
+    background: #dddddd;
+    color:#111111;
+    text-decoration: none;
+    border-radius: 2px;
+    float: right;
+    margin-top: 60px;
+}
+.return-top{
+    width:38px;
+    height:35px;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    text-align:center;
+    cursor:pointer;
+    display:none;
+}
+.return-top.active{
+    display:block;
+}
