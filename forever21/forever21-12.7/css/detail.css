@@ -1,0 +1,214 @@
+@charset "utf-8";
+/* CSS Document */
+div,p,ul,li,html,body{
+	margin:0;
+	padding:0;
+}
+/*third*/
+.third1{
+width: 100%;
+height:60px;
+text-align: center;
+}
+.third1 a{
+    font-size: 14px;
+    color:#222222;
+    text-decoration: none;
+    margin-right:27px;
+}
+/*four*/
+.fourD{
+	width: 100%;
+	height: 316px;
+	position:relative;
+}
+.bannerF{
+	width: 100%;
+	height: 266px;
+	background-size:cover;
+}
+.f1{
+	display:inline-block;
+	font-size: 10px;
+	color: #777777;
+	margin-left: 540px;
+}
+.f2{
+	float: right;
+	width: 90px;
+	height: 26px;
+	border:1px solid #888;
+	margin-right: 335px;
+	
+	
+}
+#f12{
+	display: block;
+	width: 90px;
+	height:38px;
+	border-bottom:1px dotted #ccc;
+	
+}
+.fourL{
+	float:right;
+	position:absolute;
+	right: 0;
+	top:276px;
+	right:50px;
+	margin-top: -10px;
+}
+.fourL a{
+	text-decoration: none;
+	font-size: 10px;
+	float: left;
+	display: block;
+	color:#888;
+	margin: 10px;
+	cursor: pointer;
+	text-align: top;
+}
+.fourL span{
+	font-size: 10px;
+	color: #888;
+}
+.Sj1{
+	width:0;
+	height:0;
+	border:5px solid transparent;
+	border-right-color: #888;
+	float: left;
+	text-align: top;
+	cursor: pointer;
+	margin-top: 13px;
+}
+.Sj2{
+	width:0;
+	height:0;
+	border:5px solid transparent;
+	border-left-color: #888;
+	float: left;
+	text-align: top;
+	cursor: pointer;
+	margin-top: 13px;
+}
+.lineA{
+	width:1163px;
+	height:42px;
+	margin: 0 auto;
+	border-top:1px solid #dddddd;
+	border-bottom:1px solid #dddddd;
+}
+.lineA1{
+	width:90px;
+	height:35px;
+	font-size: 10px;
+	float: left;
+	margin-top:4px;
+	border:none;
+	
+}
+.A2{
+	margin-top: -27px;
+	margin-left: 211px;
+}
+.A3{
+	margin-top: -27px;
+	margin-left: 130px;
+}
+.lineA p{
+	display: block;
+	margin-top: 10px;
+	margin-left: 150px;
+}
+.fiveA{
+	width: 268px;
+	height:490px ;
+	margin-left: 30px;
+	margin-top: 30px;
+	float: left;
+}
+.fImg{
+	width:268px;
+	height:400px ;
+}
+.fiveA p{
+	font-size: 14px;
+	color:#222;
+	margin-top: 15px;
+	margin-left: 30px;
+	
+}
+.fiveA span{
+	font-size: 14px;
+	color:#222;
+	margin-top: 13px;
+    margin-left: 30px;
+
+}
+.small{
+	
+	width:20px;
+	height:20px;
+	border: 2px solid white;
+	border-radius: 50%;
+	text-align: center;
+	float: left;
+	cursor: pointer;
+}
+.small2{
+	width:20px;
+	height:20px;
+	border: 2px solid white;
+	border-radius: 50%;
+	text-align: center;
+	float: left;
+	margin-top: -23px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.Bsmall{
+	width:22px;
+	height:22px;
+	border-radius: 50%;
+	 margin-left: 30px;
+	border: 1px double #9e9e9e;
+}
+.showA{
+	   width:268px;
+	   height:400px ;
+	   margin-left: 30px;
+	   cursor: pointer;
+	  position: relative;
+
+	}
+
+.showA	img{
+		width: 268px;
+		height: 400px;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+.fImg{
+		opacity: 0;
+
+	}
+.fImg2{
+		opacity: 1;
+		
+	}
+
+/* 回到顶部 */
+.return-top{
+    width:38px;
+    height:35px;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    text-align:center;
+    cursor:pointer;
+    display:none;
+}
+.return-top.active{
+    display:block;
+}

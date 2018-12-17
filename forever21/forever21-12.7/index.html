@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>首页</title>
+<script type="text/javascript" src="../jquery1.42.min.js"></script>
+<script type="text/javascript" src="../jquery.SuperSlide.2.1.1.js"></script>
+<link rel="stylesheet" type="text/css" href="css/index.css"/>
+<link rel="stylesheet" type="text/css" href="css/Public.css"/>
+
+
+</head>
+<body>
+		<style type="text/css">
+		
+			/* 本例子css */
+			.fullSlide{ width:100%;  position:relative;  height:456px;}
+			.fullSlide .bd{ margin:0 auto; position:relative; z-index:0; overflow:hidden;  }
+			.fullSlide .bd ul{ width:100% !important;  }
+			.fullSlide .bd li{ width:100% !important;  height:456px; overflow:hidden; text-align:center;  }
+			.fullSlide .bd li a{ display:block; height:456px; }
+		
+			.fullSlide .hd{ width:100%;  position:absolute; z-index:1; bottom:0; left:0; height:30px; line-height:30px; }
+			.fullSlide .hd ul{ text-align:center; }
+			.fullSlide .hd ul li{ cursor:pointer; display:inline-block; *display:inline; zoom:1; width:15px; height:15px; margin:1px; overflow:hidden; background:#000;border-radius: 50%;margin: 10px;
+				filter:alpha(opacity=100);opacity:1;  line-height:999px; 
+			}
+			.fullSlide .hd ul .on{ background:white;  }
+		
+			.fullSlide .prev,
+			.fullSlide .next{  display:block;  position:absolute; z-index:1; top:50%; margin-top:-30px; left:10%;  z-index:1; width:50px; height:50px; background:url(img/slider-arrow.png) -200px -137px white no-repeat;  cursor:pointer; filter:alpha(opacity=100);opacity:1; display:none; border-radius: 50%; }
+			.fullSlide .next{ left:auto; right:10%; background-position:-20px -20px; }
+		/* 第二个 */
+	.scrollBox{ width:100%; padding:10px;border-top:1px solid #fff; position:relative; }
+	.scrollBox .piclist{ overflow:hidden; zoom:1;}
+	.scrollBox .ohbox{overflow:hidden; position:relative;width:100%;left:60px}
+	.scrollBox {position:relative;overflow:hidden;zoom:1;}
+	.scrollBox .piclist li{float:left; display:inline; width:185px;background:#fff;border:1px solid #c9bea9;margin-right:10px;padding:5px;}
+	.scrollBox .piclist li span{height:25px;line-height:25px;display:block;text-align:center;   }
+	.scrollBox .pageBtn span{ background:url(img/logo02.png) no-repeat; display:block;width:50px;height:50px;position:absolute;top:72px;cursor:pointer;text-indent:-999em;overflow:hidden; }
+	.scrollBox .pageBtn .prev{left:20px;background-position:-11px -84px ;}
+	.scrollBox .pageBtn .next{right:20px;background-position:-53px -84px ;}
+	.scrollBox .pageBtn .list{overflow:hidden;zoom:1;margin:10px 0 0 413px; }
+	.scrollBox .pageBtn .list li{ background:url(img/logo03.png); float:left; display:inline; width:50px;height:10px;background-position:-86px -57px ;cursor:pointer;margin-left:10px;line-height:10000px;overflow:hidden;  }
+	.scrollBox .pageBtn .list li.on{background-position:-114px -57px }
+		</style>
+<!-- --first -->
+
+<div class="first">
+	<div class="first1">
+		<p class="first-p">中国|CNY(元)
+			<div class="firstSpan">
+				<span class="span1">United States</span>
+				<span class="span1">Canada</span>
+				<span class="span1">Mexico</span>
+				<span class="span1">Europe</span>
+				<span class="span1"> United Kingdom</span>
+				<span class="span1">Korea</span>
+				<span class="span1">Japan</span>
+				<span class="span1">Australia</span>
+				<span class="span1">New Zealand</span>
+				<span class="span1">Asia Pacific</span>
+				<span class="span1">India</span>
+			</div>
+			
+		</p>
+
+	</div>
+	<div class="first2">
+		<p class="first22">复古天鹅绒❤专区5.5折起！</p><br>
+		<p class="first222">*全场满200元免邮（港澳台除外）</p>
+	</div>
+	<div id="welcomeBox">
+	欢迎您：<span id="usernameSpan"></span>
+	<input id="btnOut" type="button" value="注销" />
+</div>
+
+	<div class="first3">
+		
+		<!-- <div class="cookieBox">
+		欢迎你:<span class="cookieM" style="color:white;"></span>
+		</div> -->
+		<a href="login.html">/注册</a>
+		<a href="login.html">登录</a>
+		<img src="img/logo001.jpg"/>
+	</div>
+
+</div>
+
+<!-- sencond -->
+<div class="sencond">
+	<div class="sencond1">
+		<img src="img/logo01.jpg"/>
+	</div>
+   <div class="sencond2">
+   	<ul class="ulsi">
+    <li><a href="detail.html">新品</a></li>
+    <li><a href="detail.html">畅销单品</a></li>
+    <li><a href="detail.html">女装</a></li>
+    <li><a href="detail.html">白领女装</a></li>
+    <li><a href="detail.html">男装</a></li>
+    <li><a href="detail.html">包袋&配饰</a></li>
+    <li><a href="detail.html">女鞋</a></li>
+    <li><a href="detail.html">泳衣</a></li>
+    <li><a href="detail.html" id="sale">Sale</a></li>
+   	</ul>
+ 
+   </div>
+	
+    <div class="sencond3">
+		<div class="sou">
+			<input  class="input2" type="text" value="seach products"/>
+			<img class="cha" src="img/icon_close.png"/>
+		</div>
+		<div class="fdj">
+			<p class="log">搜索</p>
+			<img class="logo01" src="img/logo002.jpg"/>
+		</div>
+    	<div class="sencond33">
+    		<a href="loveList.html">
+    			<img class="logo02" src="img/logo003.jpg"/>
+    		</a>
+			
+			<a href="shop.html">
+				<img class="logo03" src="img/logo004.jpg"/>
+			</a>
+			
+    	</div>
+    	
+
+    </div>
+</div>
+<!-- banner -->
+<div class="third">
+	
+	
+		<div class="fullSlide">
+			
+			<div class="bd">
+				<ul>
+					<li _src="url(img/banner001.gif)" style="background:#E2025E center 0 ; background-size:cover;"><a target="_blank" href="#"></a></li>
+					<li _src="url(img/banner002.gif)" style="background:#DED5A1 center 0 ; background-size:cover;"><a target="_blank" href="#"></a></li>
+					
+				</ul>
+			</div>
+	
+			<div class="hd"><ul></ul></div>
+			<span class="prev"></span>
+			<span class="next"></span>
+		</div>
+	
+		
+
+</div>
+
+<!-- four -->
+<div class="four">
+	<img src="img/pic1.gif"/>
+	<img src="img/pic2.jpg"/>
+	<img src="img/pic3.gif"/>
+	<img src="img/pic4.jpg"/>
+	
+   
+</div>
+<div class="four1 ff1">
+	<a href="#">每日上新</a>
+    <a href="#" class="four2">查看更多</a>
+</div>
+	<!--five-->
+	<div class="picScroll" >
+			<div class="bd">
+				<a href="javascript:void(0)" class="prev">
+						<img class="img02" src="img/logo02.png"/>
+				</a>
+				<a href="javascript:void(0)" class="next">
+						<img class="img02" src="img/logo03.png"/>
+				</a>
+				<div class="scrollWrap">
+					<ul class="picList">
+							<li>
+								<a href="product.html" class="pic"><img src="img/pic15.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic6.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic7.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic5.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic9.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic10.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic11.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic12.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic13.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic14.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic15.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic16.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic17.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic18.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+						   <li>
+								<a href="product.html" class="pic"><img src="img/pic19.jpg"></a>
+								<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+								<p class="txt1"><a href="#">439.00元</a></p>
+						   </li>
+							
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="four1 four12">
+				<a href="#">精品热卖</a>
+				<a href="#" class="four2 four23">查看更多</a>
+			</div>
+			<div class="four22"></div>
+		<div class="picScroll" >
+				<div class="bd">
+					<a href="javascript:void(0)" class="prev">
+						<img class="img02" src="img/logo02.png">
+					</a>
+					<a href="javascript:void(0)" class="next">
+							<img class="img02" src="img/logo03.png">
+					</a>
+					<div class="scrollWrap">
+						<ul class="picList">
+								<li>
+									<a href="product.html" class="pic"><img src="img/pi1.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi2.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi3.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi4.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi5.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi6.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi7.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi8.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi9.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pi10.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pic15.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pic16.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pic17.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pic18.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+							   <li>
+									<a href="product.html" class="pic"><img src="img/pic19.jpg"></a>
+									<p class="movielist_tt"><a href="#">女子时髦撞色外套</a></p>
+									<p class="txt1"><a href="#">439.00元</a></p>
+							   </li>
+								
+						</ul>
+					</div>
+				</div>
+			</div>
+<!--six-->
+
+<div class="six">
+	<div class="six1">
+	<a href="#">热搜关键词#</a>
+	</div>
+	<div class="sixsix">
+		   	    <div class="six2">
+	<a href="detail.html">#衬衫</a>
+	<a href="detail.html">#层叠项链</a>
+	<a href="detail.html">#针织衫/毛衣</a>
+	<a href="detail.html">#连衣裙</a>
+	<a href="detail.html">#外套</a>
+	</div>
+	   	<div class="six2">
+	<a href="detail.html">#天鹅绒</a>
+	<a href="detail.html">#格纹</a>
+	<a href="detail.html">#一字肩</a>
+	<a href="detail.html">#刺绣</a>
+	<a href="detail.html">#印花</a>
+	<a href="detail.html">#蕾丝</a>
+	<a href="detail.html">#牛仔</a>
+	</div>
+		<div class="six2">
+	<a href="detail.html">#鞋靴</a>
+	<a href="detail.html">#包</a>
+	<a href="detail.html">#项链</a>
+	<a href="detail.html">#耳环</a>
+	<a href="detail.html">#F21xMe</a>
+	</div>
+	</div>
+
+</div>
+<!-- seven -->
+<div class="seven">
+<div class="seven1">
+	<p>SIGN UP FOR SPECIAL PROMOTIONS</p>
+	<span class="span1">订阅FOREVER21邮件</span>
+</div>
+<div class="input1">
+	<form action="1.网页布局练习.html" method="post">
+	<input class="seve2" type="email" value="电子邮箱地址" required pattern="" /><span id="ysspan"></span>
+    <input class="seve3" type="submit" value="注册"/>
+	</form>
+	
+</div>
+<div class="wordAd">
+	<h4>Company Info</h4>
+	<ul>
+		<li><a href="#">公司介绍</a></li>
+		<li><a href="#">招聘信息</a></li>
+		<li><a href="#">店铺指南</a></li>
+
+	</ul>
+</div>
+<div class="wordAd w2">
+		<h4>Help</h4>
+		<ul>
+			<li><a href="#">常见问题</a></li>
+			<li><a href="#">配送 / 退货咨询</a></li>
+			<li><a href="#">在线客服</a></li>
+			<li><a href="#" >客服热线 : 400-820-0236<sapn class="spanA">(周一~周五 09:00-18:00)</sapn></a></li>
+			<li><a href="#">客服邮箱：chncs@forever21.com</a></li>
+			<a href="#"><img class="pic0" src="img/img_appqr.jpg"/></a>
+	
+		</ul>
+	</div>
+	<div class="wordAd w3">
+			<h4>News & Event</h4>
+			<ul>
+				<li><a href="#">- 2018年春节发货通告"></a></li>
+				<li><a href="#">- 北京地区订单物流延迟公告"></a></li>
+				<li><a href="#">- 南京东路店庆来袭，丰富好礼宠爱你"></a></li>
+	            <li><a href="#" class="more"><U>+ more</U></a></li>
+		
+			</ul>
+		</div>
+		
+		<div class="pic">
+			
+			<a href="#"><img class="pic1" src="img/logo04.jpg"/></a>
+			
+			<a href="#"><img class="pic2" src="img/logo05.jpg"/></a>
+			<a href="#"><img class="pic3" src="img/logo06.jpg"/></a>
+          <div>
+			  <p class="lastP">forever21©IS A REGISTERED TRADEMARK OF FOREVER21, INC. ALL RIGHTS RESERVED.<a href="#" class="lastA">公司简介 | 服务条款 | 招聘信息 | 个人信息隐私政策 | FOREVER21中国官网 </a></p>
+			  <a href="#" class="last1">永远二十一商业（上海）有限公司 |<span class="last2">沪ICP备11045666 </span> | 上海工商</a>
+		  </div>
+		</div>
+</div>
+<div class="return-top" id="return_top"><img id="return_top" src="img/backtotop.png"/></div>
+</body>
+</html>
+
+<script type="text/javascript" src="js/slider.js"></script> 
+<script type="text/javascript" src="js/cssTools.js" ></script>
+<script type="text/javascript" src="js/move1808.js" ></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/cookieTools.js"></script>
+<!-- <script type="text/javascript" src="js/RegExp.js"></script> -->
+<script type="text/javascript">
+		
+	/* 控制左右按钮显示 */
+	jQuery(".fullSlide").hover(function(){ jQuery(this).find(".prev,.next").stop(true,true).fadeTo("show",0.5) },function(){ jQuery(this).find(".prev,.next").fadeOut() });
+
+	/* 调用SuperSlide */
+	jQuery(".fullSlide").slide({ titCell:".hd ul", mainCell:".bd ul", effect:"fold",  autoPlay:true, autoPage:true, trigger:"click",
+		startFun:function(i){
+			var curLi = jQuery(".fullSlide .bd li").eq(i); /* 当前大图的li */
+			if( !!curLi.attr("_src") ){
+				curLi.css("background-image",curLi.attr("_src")).removeAttr("_src") /* 将_src地址赋予li背景，然后删除_src */
+			}
+		}
+	});
+
+	jQuery(".fullSlide").slide({
+		titCell: ".hd ul",
+		mainCell: ".bd ul",
+		effect: "fold",
+		autoPlay: true,
+		autoPage: true,
+		trigger: "click",
+		startFun: function(i) {
+			var curLi = jQuery(".fullSlide .bd li").eq(i); /* 当前大图的li */
+			if(!!curLi.attr("_src")) {
+				curLi.css("background-image", curLi.attr("_src")).removeAttr("_src") 
+				/* 将_src地址赋予li背景，然后删除_src */
+		}
+ 	}
+ });
+	
+	jQuery(".picScroll").slide({
+	mainCell: ".picList",
+	effect: "left",
+		vis: 5,
+		pnLoop: true,
+		scroll: 5,
+		autoPage: true
+	});
+	
+ $(".input2")[0].onfocus=function(){
+   this.value="";
+}
+$(".seve2")[0].onfocus=function(){
+	this.value="";
+}
+</script> 

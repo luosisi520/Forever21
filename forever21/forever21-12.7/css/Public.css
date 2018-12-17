@@ -1,0 +1,325 @@
+@charset "utf-8";
+/* CSS Document */
+div,p,ul,li,html,body{
+	margin:0;
+	padding:0;
+}
+/*first*/
+.first{
+	height: 42px;
+	background: black;
+	overflow: hidden;
+	width: 100%;
+	/* z-index: 99999; */
+	position: relative;
+}
+.first1{
+	cursor: pointer;
+}
+/* .first span{
+	z-index:9999999;
+} */
+.span1:hover{
+	text-decoration: underline;
+}
+.firstSpan{
+	/* display: inline-block; */
+	font-size:14px;
+	width: 150px;
+	height:350px;
+	background:white;
+	display: none;
+	z-index:1;
+	position: absolute;
+	top: 42px;
+	left:0;
+	text-align: center;
+	
+	
+}
+.firstSpan span{
+	font-size:12px;
+	color: black;
+	line-height:16px;
+}
+
+.first p{
+	float: left;
+}
+.first1 p{
+	font-size: 10px;
+	color: white;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+.first22{
+	color:#fff200;
+	font-size: 10px;
+	margin-left:380px;
+	margin-top: 3px;
+	font-weight:700;
+	letter-spacing: 1px;
+}
+
+.first222{
+	color: white;
+	font-size: 8px;
+	margin-left:403px;
+	margin-top:-4px;
+}
+.first3 a{
+	font-size:10px;
+	color:white;
+	text-decoration: none; 
+    float: right;
+    margin-top: -10px;
+    letter-spacing: 2px;
+}
+.first3{
+	margin-right: 60px;
+	position: relative;
+   
+}
+.first3 img{
+	display: block;
+	width: 21px;
+	height: 21px;
+	float: right;
+	margin-right:-90px; 
+	margin-top:-13px;
+}
+
+
+/*sencond*/
+ .sencond{
+ 	height:83px;
+ 	width: 100%;
+ 	color:#222222; 
+	 overflow: hidden;
+	 position: relative;
+	 background: white;
+ 	z-index: 999999;
+ 	}
+ .sencond1 img{
+ 	width:140px;
+ 	height:31px;
+ 	margin-left: 20px;
+ 	margin-top: 20px;
+ 	float: left;
+ }
+ .sencond2 ul{
+    margin-left: 300px;
+    margin-top: 25px;
+ }
+ .sencond2 ul li{
+ 	list-style: none;
+ 	float: left; 
+ 	margin-right:25px;
+
+ }
+ .sencond2 ul li a{
+ 	text-decoration: none;
+ 	font-size: 13px;
+ 	color: #222222;
+
+ }
+ /* .sencond2 ul li a:hover {
+ 	color: gray;
+ } */
+.sencond3 p{
+	font-size:13px;
+	color: black;
+}
+.sencond3 {
+	float: right;
+	margin-right: 20px;
+}
+.sou{
+	display: none;
+	overflow: hidden;
+	text-align: center;
+}
+.input2{
+	width:253px;
+	height: 36px;
+	float: left;
+	/* display: none; */
+}
+.cha{
+	float: left;
+	margin-left: -37px;
+	margin-top: 9px;
+	vertical-align: middle;
+	/* display: none; */
+	cursor: pointer;
+}
+.fdj{
+	display: inline-block;
+	vertical-align: top;
+	/*vertical-align: middle;*/
+}
+.logo01{
+	width:19px;
+	height: 22px; 
+	margin-top: 4px;
+	cursor: pointer;
+	margin-right: 15px;
+}
+.log{
+	height: 100%; 
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;;
+}
+
+.sencond33{
+	display: inline-block;
+	vertical-align: top;
+}
+.logo02{
+	width:21px;
+	height: 20px; 
+	margin-top: 4px;
+	margin-right: 10px;
+}
+.logo03{
+	width:20px;
+	height: 20px; 
+   /*margin:15px;*/
+   margin-left:10px;
+   }
+#sale{
+	color: #d26d51;
+}
+/* seven */
+.seven{
+	height: 505px;
+	background: #f4f4f4;
+	margin-top: 200px;
+	clear: both;
+}
+.seven1 p{
+	font-size: 28px;
+	color: black;
+	text-align: center;
+	padding-top: 47px;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+}
+.seven1{
+	text-align: center;
+}
+.span1{
+	display: block;
+	margin-top: 15px;
+}
+.input1{
+	text-align: center;
+	margin-top: 27px;
+	vertical-align: middle;
+}
+.seve2{
+	width:458px;
+	height:50px;
+	border: none;
+	color:#929292;
+}
+.seve3{
+	width:66px ;
+	height: 50px;
+	background:#111111;
+	border:none;
+	color: white;
+	cursor: pointer;
+	margin-left: -4px;
+}
+.wordAd{
+	width: 228px;
+	height: 160px;
+	margin-left:135px; 
+	float: left;
+	margin-bottom: 30px;
+	
+
+}
+.wordAd li{
+	list-style-type: none;
+}
+.wordAd a{
+	text-decoration: none;
+	font-size: 12px;
+	color:#222222;
+}
+.wordAd h4{
+	font-weight: 100;
+}
+.w2{
+	width: 427px;
+	margin-left:10px; 
+    position: relative;
+}
+.spanA{
+	color:#d26d51;
+}
+.w3{
+	width: 376px;
+	margin-left: 0px;
+}
+.more{
+  margin-left: 288px;	
+}
+.pic1{
+	width:21px;
+	height: 18px;
+	margin-right: 20px;
+}
+.pic2{
+	width:22px;
+	height: 17px;
+	margin-right:20px;
+}
+.pic3{
+	width:94px;
+	height: 29px;
+}
+.pic{
+	display: block;
+	width:300px;
+	margin: 0 auto;
+	text-align: center;
+}
+.pic0{
+	width: 100px;
+	height:130px;
+	position: absolute;
+	left:200px;
+	top:50px;
+	display: none;
+}
+.w2.pic0:hover .pic2{
+	display: block;
+}
+.lastP{
+	display: inline-block;
+	font-size:10px; 
+	white-space: nowrap;
+	margin-left: -285px;
+	margin-top: 25px;
+}
+.lastA{
+	text-decoration: none;
+	font-size:10px;
+	color: black;
+}
+.last1{
+	text-decoration: none;
+	width: 100%;
+	font-size: 10px;
+	color: black;
+	white-space: nowrap;
+	display:block;
+}
+.last2{
+	font-size:10px; 
+	white-space: nowrap;
+}

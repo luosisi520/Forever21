@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+div,p,ul,li,html,body{
+	margin:0;
+	padding:0;
+}
+.loveLeft{
+	margin-left: 10px;
+	float: left;
+	display: block;
+}
+.goods{
+	width: 650px;
+	height:250px;
+	border-top: 1px solid #cccccc;
+	margin-left: 10px;
+}
+.goods img{
+	width: 145px;
+	height: 210px;
+	margin-top: 10px;
+	margin-left: 13px;
+	float: left;
+}
+
+.smallP{
+  float: right;
+  margin-top: -45px;
+  margin-right: 25px;
+  font-size:14px; 
+}
+.goods h3{
+	padding-top: 13px;
+	font-size:14px; 
+}
+.smallS{
+	font-weight: 100;
+	font-size:10px; 
+	color:#888893;
+	margin-top: -30px;
+
+}
+.Love3 p{
+	float: left;
+	font-size:12px; 
+	color: #848380;
+	margin-top: 10px;
+
+}
+.Love3 select{
+  float: right;
+  width:248px; 
+  height:36px;
+  margin-right: 48px;
+}
+.L4 p{
+	margin-top: 45px;
+}
+.L4{
+	margin-top: 40px;
+}
+.L5{
+	margin-top: 20px;
+}
+.L6 p{
+	margin-top: 90px;
+	margin-left: -25px;
+}
+.L6{
+	margin-top: 40px;
+}
+.L7{
+	margin-top: 20px;
+}
+.LoveLast a{
+   font-size:10px; 
+   color:#888888;
+   margin-left: 180px;
+}
+.loveRight{
+ float: left;
+ margin-left: 140px;
+
+}
+.loveLogin h5{
+	margin-top: 30px;
+}
+.loveLogin p{
+	font-size: 12px;
+
+}
+.loveDl{
+	text-decoration: none;
+	display: block;
+	width:58px;
+	height:38px; 
+	background:#d26d51;
+	color:white;
+	line-height:38px; 
+	text-align: center;
+	border-right: 2px;
+	margin-top: 15px;
+}
+.loveLogin li{
+   font-size: 10px;
+   margin-top: 10px;
+}
+#lovezc{
+	text-decoration: none;
+	display: block;
+	width:58px;
+	height:38px; 
+	background:black;
+	color:white;
+	line-height:38px; 
+	text-align: center;
+	border-right: 2px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+.return-top{
+        width:38px;
+        height:35px;
+        position:fixed;
+        bottom:20px;
+        right:20px;
+        text-align:center;
+        cursor:pointer;
+        display:none;
+    }
+    .return-top.active{
+        display:block;
+    }
